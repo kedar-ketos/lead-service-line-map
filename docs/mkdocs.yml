@@ -1,3 +1,21 @@
-site_name: My Docs
+site_name: Lead Service Line Map
 theme:
   name: material
+  features:
+    - navigation.tracking
+repo_url: https://github.com/kedar-ketos/lead-service-line-map
+nav:
+  - Overview: index.md
+  - Usage tutorial:
+    - Objective: tutorial/objective.md
+    - 1. Prerequisites: tutorial/prerequisites.md
+    - 2. Get and transform data: tutorial/get_data.md
+    - 3. Edit Power BI: tutorial/power_bi.md
+    - 4. Publish: tutorial/publish.md
+  - Features:
+    - 1. The data model: features/data_model.md
+    - 2. Data import and visualization: features/visualization.md
+    - 3. Simple flow of information: features/flow.md
+    - 4. Engaging design: features/design.md
+    - 5. Interactivity: features/interactivity.md
+  - Contact us: contact.md
