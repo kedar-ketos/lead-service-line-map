@@ -4,9 +4,9 @@
 
 Lead Service Line Map is a fast, automated way of generating lead service line maps for utilities. Users can build their own lead service line maps in three easy steps:
 
-1. Get your own datasets
-2. Format data. 
-3. Refresh the dashbaord.
+1. Get your datasets
+2. Format data
+3. Refresh dashboard
 
 It was developed by [KETOS](https://ketos.co) as a submission entry to the Water Data Prize 2021.
 
