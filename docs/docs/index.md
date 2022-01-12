@@ -2,11 +2,29 @@
 
 ![Image title](https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/main/docs/images/logo.png)
 
-Lead Service Line Map is a fast, automated way of generating lead service line maps for utilities. Users can build their own lead service line maps in three easy steps:
+<p align="center">
+    <em>Lead Service Line Map is a fast, automated way of generating lead service line maps for utilities. Users can build their own lead service line maps in three easy steps.</em>
+</p>
+
+## Structure
+---
+
+**Demo application**: <a href="https://app.powerbi.com/view?r=eyJrIjoiN2VkNzY0MTktMDU4Zi00MzkzLTk2Y2YtOTJmY2E3N2MyYTk1IiwidCI6IjNhMzM0YmY0LThlNjEtNDNhOS04ZmY1LWFiYTQ0YzcxY2VhOCIsImMiOjZ9&pageName=ReportSection56a47a80c507793ad45d" target="_blank">Open</a>
+
+**Documentation**: <a href="https://kedar-ketos.github.io/lead-service-line-map" target="_blank">https://kedar-ketos.github.io/lead-service-line-map</a>
+
+**Source Code**: <a href="https://github.com/kedar-ketos/lead-service-line-map" target="_blank">https://github.com/kedar-ketos/lead-service-line-map</a>
+
+---
+
+These are the only three actions that utilities take to generate their own lead service line map using our approach:
 
 1. Get your datasets
 2. Format data
 3. Refresh dashboard
+
+
+## The need
 
 It was developed by [KETOS](https://ketos.co) as a submission entry to the Water Data Prize 2021.
 
