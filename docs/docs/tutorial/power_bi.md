@@ -19,6 +19,9 @@ For each of these tables, do the following -
 6. Click `Transform and save` on the top left menu bar.
 
 
+![Update data sources](https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/main/docs/images/9_update_data.gif)
+
+
 ## Step 3. Change GeoJSON data URL
 
 - First of all, upload the downloaded GeoJSON file to a web server. The best place to upload this file is to your GitHub repository.
