@@ -1,0 +1,15 @@
+LSLType,LSLCategory
+Non-Lead / Non-Lead,NN
+Non-Lead / Galvanized Iron,NN
+No Data / No Data,UU
+No Data / Lead,UL
+Non-Lead / Lead,NL
+Non-Lead / No Data,NU
+Lead / Galvanized Iron,LN
+Lead / Non-Lead,LN
+No Data / Non-Lead,UN
+No Data / Galvanized Iron,UN
+Lead / Lead,LL
+Lead / No Data,LU
+Galvanized Iron / Non-Lead,NN
+Galvanized Iron / Galvanized Iron,NN
