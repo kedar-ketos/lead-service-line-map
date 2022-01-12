@@ -1,0 +1,981 @@
+Neighborhood,Latitude,Longitude,LSLType,Address
+Grand Boulevard,41.817160348556854,-87.6069512084197,No Data / No Data,Address 1
+Grand Boulevard,41.807569296055355,-87.62418492285913,Lead / Galvanized Iron,Address 2
+Grand Boulevard,41.811492636985875,-87.62128106417164,No Data / Non-Lead,Address 3
+Grand Boulevard,41.80895168518557,-87.6173959237295,Non-Lead / Lead,Address 4
+Grand Boulevard,41.81877022116405,-87.60838881637264,Lead / No Data,Address 5
+Grand Boulevard,41.805811659819426,-87.61767488887006,No Data / Galvanized Iron,Address 6
+Grand Boulevard,41.805402153455454,-87.61256662488073,Lead / Galvanized Iron,Address 7
+Grand Boulevard,41.82253724968382,-87.62456978793386,No Data / No Data,Address 8
+Grand Boulevard,41.81872419100776,-87.62221492583393,Non-Lead / Lead,Address 9
+Grand Boulevard,41.80374620645936,-87.61054054155777,No Data / No Data,Address 10
+Printers Row,41.869963800956334,-87.62958010611986,Lead / Galvanized Iron,Address 11
+Printers Row,41.870861054841924,-87.6284680792409,Lead / Lead,Address 12
+Printers Row,41.87186843032942,-87.62873953970752,Galvanized Iron / Non-Lead,Address 13
+Printers Row,41.87243334614755,-87.63011210341328,No Data / Non-Lead,Address 14
+Printers Row,41.87296982597753,-87.62977153727749,Lead / No Data,Address 15
+Printers Row,41.868956755965826,-87.62782382312278,Non-Lead / Non-Lead,Address 16
+Printers Row,41.87256722091006,-87.62812021453158,Lead / No Data,Address 17
+Printers Row,41.87015382100729,-87.62811076848674,No Data / Galvanized Iron,Address 18
+Printers Row,41.8679477299204,-87.62899595480309,Non-Lead / Non-Lead,Address 19
+Printers Row,41.87404114071925,-87.62939670810528,No Data / Non-Lead,Address 20
+United Center,41.88401741849633,-87.68431891779986,Non-Lead / Non-Lead,Address 21
+United Center,41.87588555209284,-87.68108892011786,Non-Lead / No Data,Address 22
+United Center,41.88366814357355,-87.68032320690101,No Data / No Data,Address 23
+United Center,41.87872736474161,-87.66713116457346,No Data / No Data,Address 24
+United Center,41.879436025430216,-87.6839788688032,Galvanized Iron / Non-Lead,Address 25
+United Center,41.87853267846111,-87.68613220454017,Non-Lead / No Data,Address 26
+United Center,41.88771297975245,-87.68296578152487,Galvanized Iron / Galvanized Iron,Address 27
+United Center,41.87732884504043,-87.68645472237088,Galvanized Iron / Galvanized Iron,Address 28
+United Center,41.88368140784755,-87.67672688297644,Non-Lead / Non-Lead,Address 29
+United Center,41.87808467151339,-87.66707753273991,No Data / No Data,Address 30
+Sheffield & DePaul,41.9324955654181,-87.65044400017013,Non-Lead / Non-Lead,Address 31
+Sheffield & DePaul,41.927837679889166,-87.65329058544964,No Data / Non-Lead,Address 32
+Sheffield & DePaul,41.932417307514896,-87.65473329127138,No Data / Lead,Address 33
+Sheffield & DePaul,41.924208270228675,-87.6563756725729,Lead / Galvanized Iron,Address 34
+Sheffield & DePaul,41.92387175443941,-87.65215493368781,Lead / Lead,Address 35
+Sheffield & DePaul,41.93249044356469,-87.65213121330667,No Data / Non-Lead,Address 36
+Sheffield & DePaul,41.923222611334985,-87.64959206043041,Lead / Non-Lead,Address 37
+Sheffield & DePaul,41.92913578303952,-87.64993776591557,Lead / Non-Lead,Address 38
+Sheffield & DePaul,41.928408027710944,-87.65584380758169,No Data / No Data,Address 39
+Sheffield & DePaul,41.93181655182766,-87.6496279707206,Lead / Lead,Address 40
+Humboldt Park,41.89949814076843,-87.71196155003196,No Data / Galvanized Iron,Address 41
+Humboldt Park,41.89448973633339,-87.7298524817567,Non-Lead / Non-Lead,Address 42
+Humboldt Park,41.89024283704154,-87.7141090254293,Lead / Lead,Address 43
+Humboldt Park,41.906967643123764,-87.70481518920208,Galvanized Iron / Galvanized Iron,Address 44
+Humboldt Park,41.90264637423903,-87.73722570684787,Non-Lead / Non-Lead,Address 45
+Humboldt Park,41.889107151002165,-87.73964290304724,No Data / Non-Lead,Address 46
+Humboldt Park,41.89919886013204,-87.73914902025837,Non-Lead / Non-Lead,Address 47
+Humboldt Park,41.8900536391457,-87.72018407597835,Lead / Non-Lead,Address 48
+Humboldt Park,41.90890124647188,-87.71683181603395,Lead / Lead,Address 49
+Humboldt Park,41.90554522218949,-87.72689785001248,No Data / Lead,Address 50
+Garfield Park,41.88108894325558,-87.72676323682643,No Data / No Data,Address 51
+Garfield Park,41.886660333179975,-87.7200113292908,Galvanized Iron / Non-Lead,Address 52
+Garfield Park,41.87712037650428,-87.7324664807623,Lead / No Data,Address 53
+Garfield Park,41.8787749463473,-87.71861887857857,Non-Lead / Non-Lead,Address 54
+Garfield Park,41.878524539003074,-87.71616816014655,Lead / Galvanized Iron,Address 55
+Garfield Park,41.87843720399484,-87.70172995920097,Non-Lead / Galvanized Iron,Address 56
+Garfield Park,41.87175177542251,-87.71791493481113,Non-Lead / No Data,Address 57
+Garfield Park,41.8862959529929,-87.72297866501113,No Data / Galvanized Iron,Address 58
+Garfield Park,41.8870518881586,-87.72417558556444,Lead / Non-Lead,Address 59
+Garfield Park,41.88758106470967,-87.72798125491956,No Data / No Data,Address 60
+North Lawndale,41.866245501735946,-87.70523794810522,Galvanized Iron / Galvanized Iron,Address 61
+North Lawndale,41.86572406733743,-87.73238023416592,No Data / Galvanized Iron,Address 62
+North Lawndale,41.854688433879694,-87.7030840106769,Non-Lead / Non-Lead,Address 63
+North Lawndale,41.850738895957434,-87.72991508867564,No Data / No Data,Address 64
+North Lawndale,41.86634265418937,-87.72516604059439,No Data / Lead,Address 65
+North Lawndale,41.86810117051281,-87.71264915023923,Lead / No Data,Address 66
+North Lawndale,41.85795088448203,-87.71297854087275,No Data / Lead,Address 67
+North Lawndale,41.85303830977845,-87.73828859807513,Galvanized Iron / Galvanized Iron,Address 68
+North Lawndale,41.86544355681927,-87.7341409737311,Non-Lead / No Data,Address 69
+North Lawndale,41.859471240007224,-87.72762357511938,No Data / No Data,Address 70
+Little Village,41.85494037434633,-87.69265799666748,Non-Lead / Non-Lead,Address 71
+Little Village,41.84757880994246,-87.7265201896787,Non-Lead / Non-Lead,Address 72
+Little Village,41.848943667206704,-87.72208011686303,Non-Lead / No Data,Address 73
+Little Village,41.844241508016935,-87.69907150794145,Lead / No Data,Address 74
+Little Village,41.8458897710381,-87.73520513401297,Non-Lead / Non-Lead,Address 75
+Little Village,41.83833084115654,-87.73650116072281,Non-Lead / No Data,Address 76
+Little Village,41.84430263903078,-87.73883581503732,Non-Lead / Lead,Address 77
+Little Village,41.839022704693846,-87.73649727538363,Lead / Non-Lead,Address 78
+Little Village,41.83520199381991,-87.70934856989443,Lead / Non-Lead,Address 79
+Little Village,41.84773582061942,-87.69004816821058,No Data / Non-Lead,Address 80
+Armour Square,41.84008571530684,-87.63274100416686,Galvanized Iron / Galvanized Iron,Address 81
+Armour Square,41.84724269616356,-87.63379285123976,Non-Lead / No Data,Address 82
+Armour Square,41.83228776918549,-87.63108070822858,Lead / Non-Lead,Address 83
+Armour Square,41.82782827104395,-87.63145231843824,Non-Lead / Non-Lead,Address 84
+Armour Square,41.83959423182886,-87.63627730350173,Galvanized Iron / Non-Lead,Address 85
+Armour Square,41.839493123471435,-87.6315897284657,Non-Lead / No Data,Address 86
+Armour Square,41.84258990765243,-87.63237832727148,No Data / Non-Lead,Address 87
+Armour Square,41.841270579232244,-87.63491518267709,Galvanized Iron / Galvanized Iron,Address 88
+Armour Square,41.825773493065995,-87.635034413518,Galvanized Iron / Non-Lead,Address 89
+Armour Square,41.8419359917337,-87.62990726737578,Lead / Non-Lead,Address 90
+Avalon Park,41.738895859986805,-87.5842972848065,Lead / Lead,Address 91
+Avalon Park,41.738319785546004,-87.57810582620048,No Data / Lead,Address 92
+Avalon Park,41.74137240234489,-87.58637016422912,Non-Lead / Lead,Address 93
+Avalon Park,41.73867544406888,-87.58070130856984,Non-Lead / No Data,Address 94
+Avalon Park,41.74476192230417,-87.58584899918425,Lead / Lead,Address 95
+Avalon Park,41.74624683749206,-87.58441919823053,Lead / Lead,Address 96
+Avalon Park,41.744718790529035,-87.59478434559183,Non-Lead / Lead,Address 97
+Avalon Park,41.740688919409024,-87.57336444641741,Lead / Lead,Address 98
+Avalon Park,41.74536235413478,-87.58217881658459,Non-Lead / No Data,Address 99
+Avalon Park,41.742411869551084,-87.59313699139423,Galvanized Iron / Galvanized Iron,Address 100
+Burnside,41.732341168221325,-87.59616799857497,Non-Lead / Non-Lead,Address 101
+Burnside,41.728313708270434,-87.59775700170094,Non-Lead / Lead,Address 102
+Burnside,41.73216040098784,-87.59739007812786,Lead / Galvanized Iron,Address 103
+Burnside,41.7257163212449,-87.59431496801542,No Data / Galvanized Iron,Address 104
+Burnside,41.7296642142007,-87.5951776223452,Galvanized Iron / Galvanized Iron,Address 105
+Burnside,41.728489561395925,-87.60125603891788,Galvanized Iron / Galvanized Iron,Address 106
+Burnside,41.72964543953293,-87.6019628511462,Galvanized Iron / Galvanized Iron,Address 107
+Burnside,41.72338212099086,-87.58918731963867,Non-Lead / Lead,Address 108
+Burnside,41.72259927007936,-87.5920951897574,Lead / Non-Lead,Address 109
+Burnside,41.72270461020818,-87.59640843921625,Galvanized Iron / Galvanized Iron,Address 110
+Hermosa,41.91551855834111,-87.72787475092933,Galvanized Iron / Non-Lead,Address 111
+Hermosa,41.927935241606,-87.73490659449459,Non-Lead / No Data,Address 112
+Hermosa,41.91824207747969,-87.7303049257669,Non-Lead / Lead,Address 113
+Hermosa,41.92228849067484,-87.73554417519563,Lead / Non-Lead,Address 114
+Hermosa,41.91867856786289,-87.73144957642056,Lead / No Data,Address 115
+Hermosa,41.92188148772248,-87.73452485446089,No Data / No Data,Address 116
+Hermosa,41.91404856148954,-87.72410483909938,Galvanized Iron / Galvanized Iron,Address 117
+Hermosa,41.91400621892058,-87.73756536855973,Galvanized Iron / Galvanized Iron,Address 118
+Hermosa,41.92410463583473,-87.7353246350076,Non-Lead / No Data,Address 119
+Hermosa,41.918929636259286,-87.74025333558826,Lead / Galvanized Iron,Address 120
+Avondale,41.93479119062628,-87.7098721602194,Lead / Galvanized Iron,Address 121
+Avondale,41.932231030409135,-87.72304689131187,No Data / Lead,Address 122
+Avondale,41.94245569921382,-87.69580046673053,Lead / No Data,Address 123
+Avondale,41.937838891158506,-87.69860777511471,No Data / Non-Lead,Address 124
+Avondale,41.93834404017975,-87.70219513841467,No Data / Lead,Address 125
+Avondale,41.93259959866582,-87.71254952923398,Lead / Non-Lead,Address 126
+Avondale,41.938184997429964,-87.72636908611594,Non-Lead / Non-Lead,Address 127
+Avondale,41.93492802341118,-87.69435259774662,No Data / Non-Lead,Address 128
+Avondale,41.93479575243109,-87.7103697659035,Galvanized Iron / Galvanized Iron,Address 129
+Avondale,41.93617114234834,-87.72952807624529,Galvanized Iron / Galvanized Iron,Address 130
+Logan Square,41.921349603588304,-87.72407472585593,Lead / Lead,Address 131
+Logan Square,41.92408608873277,-87.70387009940717,Lead / Non-Lead,Address 132
+Logan Square,41.92557792919693,-87.71258715121229,Non-Lead / Galvanized Iron,Address 133
+Logan Square,41.92649538222589,-87.712822876284,No Data / Non-Lead,Address 134
+Logan Square,41.91606057031878,-87.71741609951319,Non-Lead / Galvanized Iron,Address 135
+Logan Square,41.91579138518796,-87.69910424560356,Lead / No Data,Address 136
+Logan Square,41.92903719024214,-87.69521233281127,Galvanized Iron / Non-Lead,Address 137
+Logan Square,41.92438863608522,-87.726701511332,Galvanized Iron / Non-Lead,Address 138
+Logan Square,41.915775778753805,-87.70138732932814,Lead / Galvanized Iron,Address 139
+Logan Square,41.91869971143225,-87.68793591527918,Lead / No Data,Address 140
+Calumet Heights,41.72849181568375,-87.58769812812129,Lead / Galvanized Iron,Address 141
+Calumet Heights,41.72909724622166,-87.55648502869983,Non-Lead / Non-Lead,Address 142
+Calumet Heights,41.73097810620547,-87.56227819327442,No Data / No Data,Address 143
+Calumet Heights,41.73359287243888,-87.56350816888853,Lead / Galvanized Iron,Address 144
+Calumet Heights,41.72784876520137,-87.56162736757771,Galvanized Iron / Galvanized Iron,Address 145
+Calumet Heights,41.72916878065727,-87.5779221784708,Non-Lead / Non-Lead,Address 146
+Calumet Heights,41.72681428482242,-87.57736206406568,Lead / Lead,Address 147
+Calumet Heights,41.72332538411654,-87.55535966697418,No Data / Galvanized Iron,Address 148
+Calumet Heights,41.73667529053324,-87.57507858460787,No Data / No Data,Address 149
+Calumet Heights,41.73632417914312,-87.57946485390877,Galvanized Iron / Galvanized Iron,Address 150
+East Side,41.68552045790319,-87.53680699304313,No Data / No Data,Address 151
+East Side,41.69460951696062,-87.52583328524801,Lead / Lead,Address 152
+East Side,41.70908147041033,-87.53259615611083,Non-Lead / Non-Lead,Address 153
+East Side,41.70888764244722,-87.53602799108732,Lead / Lead,Address 154
+East Side,41.72476834530142,-87.52873487781628,No Data / Non-Lead,Address 155
+East Side,41.723802209574224,-87.54222480237917,Non-Lead / Galvanized Iron,Address 156
+East Side,41.6873103442826,-87.54047657479187,Non-Lead / Lead,Address 157
+East Side,41.70495058837058,-87.54521659593311,Lead / Lead,Address 158
+East Side,41.69182184021752,-87.53259900621737,No Data / Lead,Address 159
+East Side,41.729862392733786,-87.52540787967477,No Data / Galvanized Iron,Address 160
+West Pullman,41.65939811194007,-87.64161446376177,Lead / Galvanized Iron,Address 161
+West Pullman,41.66883931336113,-87.62911479354246,No Data / Galvanized Iron,Address 162
+West Pullman,41.68061962320664,-87.61531279347777,Lead / No Data,Address 163
+West Pullman,41.678596128856945,-87.64387060008755,Lead / Lead,Address 164
+West Pullman,41.67363825719998,-87.6150319579168,No Data / No Data,Address 165
+West Pullman,41.65947414615472,-87.6443290018605,Lead / Non-Lead,Address 166
+West Pullman,41.68236066447096,-87.61457337259537,Galvanized Iron / Galvanized Iron,Address 167
+West Pullman,41.67673351441541,-87.64498061181949,Galvanized Iron / Non-Lead,Address 168
+West Pullman,41.67127195309346,-87.66019717000188,Non-Lead / Galvanized Iron,Address 169
+West Pullman,41.68219483400037,-87.63184742196738,No Data / Galvanized Iron,Address 170
+Garfield Ridge,41.78742529364459,-87.79946391119846,No Data / Non-Lead,Address 171
+Garfield Ridge,41.7885452718313,-87.79592301990357,Non-Lead / Lead,Address 172
+Garfield Ridge,41.7973611907214,-87.7885938298903,Galvanized Iron / Galvanized Iron,Address 173
+Garfield Ridge,41.78849073084282,-87.7845093520118,No Data / Non-Lead,Address 174
+Garfield Ridge,41.792041866077845,-87.78738121209594,Lead / Galvanized Iron,Address 175
+Garfield Ridge,41.79866179007914,-87.7561914901327,Lead / Galvanized Iron,Address 176
+Garfield Ridge,41.79149634242742,-87.79128524459324,Galvanized Iron / Non-Lead,Address 177
+Garfield Ridge,41.807819469416934,-87.75210054875022,Lead / Non-Lead,Address 178
+Garfield Ridge,41.790207194551954,-87.75665754280173,No Data / Galvanized Iron,Address 179
+Garfield Ridge,41.80708888204136,-87.75039131392705,Lead / Galvanized Iron,Address 180
+New City,41.819738972452186,-87.6451961805649,Lead / Galvanized Iron,Address 181
+New City,41.79650180448077,-87.65890913343814,No Data / Non-Lead,Address 182
+New City,41.800751197016396,-87.67603261920303,Lead / Non-Lead,Address 183
+New City,41.81446052088038,-87.65195574947377,No Data / Galvanized Iron,Address 184
+New City,41.80210025035913,-87.66264077650996,No Data / Non-Lead,Address 185
+New City,41.80783221599247,-87.63699455245336,Non-Lead / No Data,Address 186
+New City,41.82082880977184,-87.64180545217066,No Data / Lead,Address 187
+New City,41.80312768526362,-87.65391272342616,No Data / No Data,Address 188
+New City,41.811770977541634,-87.66122663415682,No Data / Galvanized Iron,Address 189
+New City,41.82113448902904,-87.64406791852832,No Data / Lead,Address 190
+Englewood,41.757948619940144,-87.66448022479034,Lead / Galvanized Iron,Address 191
+Englewood,41.76705920947516,-87.64316651728952,Galvanized Iron / Non-Lead,Address 192
+Englewood,41.770877972687224,-87.6404672459925,Non-Lead / Lead,Address 193
+Englewood,41.76636343011601,-87.66638602370092,No Data / No Data,Address 194
+Englewood,41.766120883999854,-87.65279687816954,No Data / No Data,Address 195
+Englewood,41.77732780221453,-87.6678193641186,Non-Lead / Galvanized Iron,Address 196
+Englewood,41.78054283231627,-87.6519116380957,Lead / Galvanized Iron,Address 197
+Englewood,41.79416146700121,-87.64918111421918,Galvanized Iron / Non-Lead,Address 198
+Englewood,41.772742796979735,-87.64964331226645,Non-Lead / Lead,Address 199
+Englewood,41.77282978096855,-87.63324216407732,Galvanized Iron / Galvanized Iron,Address 200
+Grand Crossing,41.758370018088605,-87.61004134133414,Galvanized Iron / Galvanized Iron,Address 201
+Grand Crossing,41.76536045006592,-87.60440014481809,Galvanized Iron / Non-Lead,Address 202
+Grand Crossing,41.76192490240765,-87.6314775622499,Non-Lead / Non-Lead,Address 203
+Grand Crossing,41.77822948291882,-87.61961301698004,Galvanized Iron / Galvanized Iron,Address 204
+Grand Crossing,41.760874894690616,-87.60371329275698,Lead / Galvanized Iron,Address 205
+Grand Crossing,41.76111865342063,-87.61127587313642,No Data / Non-Lead,Address 206
+Grand Crossing,41.761110679449786,-87.6313268666043,No Data / No Data,Address 207
+Grand Crossing,41.75688870993818,-87.60150912147384,Galvanized Iron / Galvanized Iron,Address 208
+Grand Crossing,41.755425778699546,-87.6375917296023,Lead / Non-Lead,Address 209
+Grand Crossing,41.761127169076666,-87.61133351639756,Lead / Galvanized Iron,Address 210
+Ashburn,41.74727371602789,-87.70945263706761,Galvanized Iron / Galvanized Iron,Address 211
+Ashburn,41.740869778801496,-87.68833707748001,Lead / No Data,Address 212
+Ashburn,41.75589609161402,-87.70796572272764,No Data / Non-Lead,Address 213
+Ashburn,41.739539424224134,-87.72068229099614,No Data / Galvanized Iron,Address 214
+Ashburn,41.75553519021298,-87.6989436585753,Non-Lead / Lead,Address 215
+Ashburn,41.74652491050555,-87.7299792565538,Non-Lead / No Data,Address 216
+Ashburn,41.75323693891995,-87.7219864142221,Lead / Lead,Address 217
+Ashburn,41.74405014979506,-87.68522762445708,Non-Lead / No Data,Address 218
+Ashburn,41.743347540045704,-87.71411256161525,Galvanized Iron / Non-Lead,Address 219
+Ashburn,41.74080610160485,-87.74079060322077,Lead / Galvanized Iron,Address 220
+Mount Greenwood,41.68817037027136,-87.69768499748716,Non-Lead / Lead,Address 221
+Mount Greenwood,41.687028355808565,-87.7205508905027,Galvanized Iron / Galvanized Iron,Address 222
+Mount Greenwood,41.68836158273903,-87.698904923925,No Data / No Data,Address 223
+Mount Greenwood,41.70394345794057,-87.70843130867138,Lead / Galvanized Iron,Address 224
+Mount Greenwood,41.68214116931276,-87.71077947024959,Galvanized Iron / Galvanized Iron,Address 225
+Mount Greenwood,41.70235516861177,-87.70464996771005,No Data / Lead,Address 226
+Mount Greenwood,41.70346516622571,-87.70173318330504,Galvanized Iron / Non-Lead,Address 227
+Mount Greenwood,41.68486762327009,-87.73589150703444,Non-Lead / Lead,Address 228
+Mount Greenwood,41.68772371255225,-87.73026913800766,No Data / Lead,Address 229
+Mount Greenwood,41.6935038077257,-87.71320512388556,Galvanized Iron / Galvanized Iron,Address 230
+Morgan Park,41.692022893567305,-87.64859271909131,Non-Lead / Galvanized Iron,Address 231
+Morgan Park,41.682650168065095,-87.66732881363097,Lead / Galvanized Iron,Address 232
+Morgan Park,41.679742415462236,-87.68373062984328,Lead / Lead,Address 233
+Morgan Park,41.69595880234498,-87.65102205389809,No Data / Galvanized Iron,Address 234
+Morgan Park,41.684905584292906,-87.68610133739641,Lead / No Data,Address 235
+Morgan Park,41.68154735963509,-87.67306223568374,No Data / Non-Lead,Address 236
+Morgan Park,41.67855615077367,-87.68376148858101,No Data / Galvanized Iron,Address 237
+Morgan Park,41.68100824036168,-87.67576777560313,Galvanized Iron / Non-Lead,Address 238
+Morgan Park,41.68800291154975,-87.65943279179123,Non-Lead / No Data,Address 239
+Morgan Park,41.69047945813407,-87.66576035328406,Galvanized Iron / Galvanized Iron,Address 240
+O'Hare,41.97097619864832,-87.90221713933622,No Data / Non-Lead,Address 241
+O'Hare,41.996146743558946,-87.90049620130071,No Data / No Data,Address 242
+O'Hare,41.95559069735682,-87.9259814468078,Lead / Galvanized Iron,Address 243
+O'Hare,41.98292873532991,-87.85190694049307,Non-Lead / Non-Lead,Address 244
+O'Hare,41.99948173316543,-87.93735407372584,Non-Lead / Lead,Address 245
+O'Hare,41.99396538229912,-87.93640682381172,No Data / Lead,Address 246
+O'Hare,41.94968799744606,-87.83680911486017,Non-Lead / No Data,Address 247
+O'Hare,41.986319737100935,-87.91438010621698,Non-Lead / No Data,Address 248
+O'Hare,41.98271613334351,-87.93014203296407,Non-Lead / Non-Lead,Address 249
+O'Hare,41.95436601180522,-87.9014309349835,Lead / No Data,Address 250
+Jackson Park,41.783936701089104,-87.58105861254018,Lead / Non-Lead,Address 251
+Jackson Park,41.7801130600899,-87.5841295858072,No Data / Non-Lead,Address 252
+Jackson Park,41.78610277137743,-87.58414682020789,No Data / Lead,Address 253
+Jackson Park,41.77611302021381,-87.58058601349823,No Data / Galvanized Iron,Address 254
+Jackson Park,41.7844652350109,-87.57944233016804,No Data / Lead,Address 255
+Jackson Park,41.77614059169599,-87.57589965492429,Galvanized Iron / Galvanized Iron,Address 256
+Jackson Park,41.78850353459296,-87.57986387528926,Lead / No Data,Address 257
+Jackson Park,41.77812369176093,-87.58629283812249,No Data / Non-Lead,Address 258
+Jackson Park,41.77631041714236,-87.58192827555477,No Data / Galvanized Iron,Address 259
+Jackson Park,41.778074785039685,-87.58237134512261,Lead / No Data,Address 260
+Loop,41.874507262875724,-87.63318778883298,Lead / Non-Lead,Address 261
+Loop,41.881980728693925,-87.63038374714984,Lead / Lead,Address 262
+Loop,41.87007333289168,-87.62612005024694,Lead / Non-Lead,Address 263
+Loop,41.88705308441884,-87.62727726899965,Lead / No Data,Address 264
+Loop,41.879883997974204,-87.63759234028812,Lead / Lead,Address 265
+Loop,41.87609059433254,-87.634148288548,Non-Lead / Lead,Address 266
+Loop,41.88633599541527,-87.61661709036908,Galvanized Iron / Non-Lead,Address 267
+Loop,41.88817168974597,-87.62214527260335,Lead / No Data,Address 268
+Loop,41.8784996844202,-87.62748370704713,Non-Lead / Non-Lead,Address 269
+Loop,41.87105036843225,-87.62569274683206,No Data / Non-Lead,Address 270
+Pullman,41.71889707439683,-87.58521548269053,Galvanized Iron / Galvanized Iron,Address 271
+Pullman,41.700604512402194,-87.59597407741408,Lead / No Data,Address 272
+Pullman,41.70439803704386,-87.59388039741872,No Data / No Data,Address 273
+Pullman,41.71178614475034,-87.59408169548335,Galvanized Iron / Galvanized Iron,Address 274
+Pullman,41.712536489104345,-87.58657710998213,Non-Lead / Lead,Address 275
+Pullman,41.718755610356496,-87.58569338327229,No Data / Galvanized Iron,Address 276
+Pullman,41.710353514651196,-87.60209509429525,No Data / No Data,Address 277
+Pullman,41.71338144965973,-87.60346095363822,Non-Lead / Galvanized Iron,Address 278
+Pullman,41.717024386966564,-87.59955646850565,Non-Lead / No Data,Address 279
+Pullman,41.708551071166305,-87.60116272943563,Lead / Lead,Address 280
+Riverdale,41.64545830348718,-87.60188741696297,Non-Lead / Non-Lead,Address 281
+Riverdale,41.665430787070456,-87.5938239469113,Non-Lead / Non-Lead,Address 282
+Riverdale,41.65747905593594,-87.61081871888778,Lead / No Data,Address 283
+Riverdale,41.65184709831559,-87.61679611290747,Galvanized Iron / Non-Lead,Address 284
+Riverdale,41.646230616246235,-87.61544361559596,No Data / Non-Lead,Address 285
+Riverdale,41.67025942951404,-87.61048485825067,Non-Lead / No Data,Address 286
+Riverdale,41.673099791016504,-87.60591394250035,Galvanized Iron / Galvanized Iron,Address 287
+Riverdale,41.67417157249816,-87.60704724150119,Non-Lead / No Data,Address 288
+Riverdale,41.65562858084056,-87.59781893448718,Galvanized Iron / Non-Lead,Address 289
+Riverdale,41.64871879139446,-87.59668862657892,Lead / Lead,Address 290
+Hegewisch,41.65707990575791,-87.56806731124531,Non-Lead / Galvanized Iron,Address 291
+Hegewisch,41.6559198949525,-87.55745285127972,Lead / Lead,Address 292
+Hegewisch,41.65407283198525,-87.55667473862525,Non-Lead / No Data,Address 293
+Hegewisch,41.658126236832175,-87.56231186333272,Non-Lead / Galvanized Iron,Address 294
+Hegewisch,41.653134279818005,-87.5475129652786,Lead / Galvanized Iron,Address 295
+Hegewisch,41.659242559463294,-87.55121571666858,No Data / Non-Lead,Address 296
+Hegewisch,41.67741368074114,-87.53653340951264,No Data / No Data,Address 297
+Hegewisch,41.668471399827936,-87.52772722236722,Non-Lead / No Data,Address 298
+Hegewisch,41.66288403702222,-87.55762699346602,Galvanized Iron / Galvanized Iron,Address 299
+Hegewisch,41.66961628703041,-87.53725904425994,No Data / No Data,Address 300
+Greektown,41.87863222849033,-87.64773942190362,No Data / Non-Lead,Address 301
+Greektown,41.87555078586577,-87.64833529550585,Non-Lead / No Data,Address 302
+Greektown,41.88134145111448,-87.64793178538316,No Data / Non-Lead,Address 303
+Greektown,41.87654012039694,-87.64715923142985,Galvanized Iron / Galvanized Iron,Address 304
+Greektown,41.8796405489306,-87.64663513628,No Data / Non-Lead,Address 305
+Greektown,41.87987755137807,-87.64654985283578,Galvanized Iron / Galvanized Iron,Address 306
+Greektown,41.877859587438586,-87.64727958408173,Galvanized Iron / Non-Lead,Address 307
+Greektown,41.876214491053034,-87.6459325077085,No Data / Non-Lead,Address 308
+Greektown,41.87731357527911,-87.64808360389121,Lead / Non-Lead,Address 309
+Greektown,41.875973668816485,-87.64589481089742,Non-Lead / Lead,Address 310
+Douglas,41.838914216437814,-87.60991845327901,Lead / Non-Lead,Address 311
+Douglas,41.826475452455625,-87.62011832782349,Non-Lead / Lead,Address 312
+Douglas,41.83012372973313,-87.61352807194784,Lead / Galvanized Iron,Address 313
+Douglas,41.833522035830576,-87.61099328836889,No Data / Lead,Address 314
+Douglas,41.835980594954556,-87.6106286469324,No Data / Galvanized Iron,Address 315
+Douglas,41.83152132898652,-87.62627050033767,Non-Lead / Galvanized Iron,Address 316
+Douglas,41.836487854810294,-87.60931529131662,No Data / No Data,Address 317
+Douglas,41.8420802751446,-87.62327654782986,Non-Lead / Lead,Address 318
+Douglas,41.83421692037081,-87.61642265678185,Non-Lead / Galvanized Iron,Address 319
+Douglas,41.839251897972005,-87.62387776033657,Lead / Lead,Address 320
+Museum Campus,41.85962368512764,-87.61748404673466,No Data / Lead,Address 321
+Museum Campus,41.86755728882508,-87.61879570419019,Lead / Non-Lead,Address 322
+Museum Campus,41.86579108891574,-87.6192604792398,Non-Lead / Non-Lead,Address 323
+Museum Campus,41.865152183440486,-87.61421824162936,Non-Lead / Non-Lead,Address 324
+Museum Campus,41.85641849899394,-87.61545197964354,Lead / Galvanized Iron,Address 325
+Museum Campus,41.85101767886673,-87.61169198251251,Non-Lead / Galvanized Iron,Address 326
+Museum Campus,41.86605352685042,-87.60621273047806,Galvanized Iron / Galvanized Iron,Address 327
+Museum Campus,41.85925826151208,-87.61719550469765,Non-Lead / No Data,Address 328
+Museum Campus,41.860738713632536,-87.61757522484528,No Data / No Data,Address 329
+Museum Campus,41.86676297543469,-87.60954667597835,Non-Lead / No Data,Address 330
+Edgewater,41.98749823316059,-87.6619440865942,Lead / Lead,Address 331
+Edgewater,41.98607304810595,-87.67065871987664,Galvanized Iron / Non-Lead,Address 332
+Edgewater,41.978338817723795,-87.65353614193121,Galvanized Iron / Galvanized Iron,Address 333
+Edgewater,41.98360234392582,-87.65844692490897,Non-Lead / Galvanized Iron,Address 334
+Edgewater,41.99398569346988,-87.67006072130744,Galvanized Iron / Galvanized Iron,Address 335
+Edgewater,41.98980866760734,-87.67212893879365,Galvanized Iron / Galvanized Iron,Address 336
+Edgewater,41.977326816777996,-87.65188259055296,No Data / Lead,Address 337
+Edgewater,41.99180941191777,-87.66038809232984,No Data / No Data,Address 338
+Edgewater,41.993486791624264,-87.67311620133323,Lead / Lead,Address 339
+Edgewater,41.98764071703271,-87.65454921312826,Non-Lead / Lead,Address 340
+Lake View,41.945769314403556,-87.65806719823307,Lead / Non-Lead,Address 341
+Lake View,41.93945510142293,-87.6539298790564,Non-Lead / Non-Lead,Address 342
+Lake View,41.96113221997298,-87.66831246222415,Lead / Non-Lead,Address 343
+Lake View,41.93654102259032,-87.64175124748868,Lead / Non-Lead,Address 344
+Lake View,41.93863876689577,-87.67033253785247,Non-Lead / Lead,Address 345
+Lake View,41.95018288884515,-87.66824293852015,Lead / Lead,Address 346
+Lake View,41.95301845129974,-87.6430158560489,Lead / Non-Lead,Address 347
+Lake View,41.95738987221181,-87.66712646364255,Galvanized Iron / Galvanized Iron,Address 348
+Lake View,41.947395232653705,-87.653541231544,Non-Lead / Non-Lead,Address 349
+Lake View,41.952331132396125,-87.65364598920794,No Data / Galvanized Iron,Address 350
+Lincoln Park,41.924515878171995,-87.64414407623647,Lead / No Data,Address 351
+Lincoln Park,41.92917524170186,-87.63782395612691,No Data / Galvanized Iron,Address 352
+Lincoln Park,41.93213692109569,-87.63481818832955,No Data / Non-Lead,Address 353
+Lincoln Park,41.91270979371023,-87.63054094437258,Non-Lead / Lead,Address 354
+Lincoln Park,41.929865839653196,-87.68010276648886,Non-Lead / Non-Lead,Address 355
+Lincoln Park,41.9317483451796,-87.6382756190552,Lead / Non-Lead,Address 356
+Lincoln Park,41.92223011064374,-87.65850960890525,No Data / Non-Lead,Address 357
+Lincoln Park,41.92783162013034,-87.64392682823582,No Data / No Data,Address 358
+Lincoln Park,41.91919987288119,-87.64049755286719,Non-Lead / Lead,Address 359
+Lincoln Park,41.91978134435269,-87.65167275683004,Non-Lead / Lead,Address 360
+Magnificent Mile,41.897168072037125,-87.6242446245403,Galvanized Iron / Non-Lead,Address 361
+Magnificent Mile,41.89132312578598,-87.62401814559057,No Data / Galvanized Iron,Address 362
+Magnificent Mile,41.8904420376756,-87.62434203790446,No Data / No Data,Address 363
+Magnificent Mile,41.90078748502465,-87.62398770504937,Non-Lead / Non-Lead,Address 364
+Magnificent Mile,41.90030362374143,-87.6242408986027,Non-Lead / No Data,Address 365
+Magnificent Mile,41.89531963906941,-87.62452028254505,No Data / Non-Lead,Address 366
+Magnificent Mile,41.88984740399291,-87.62435203318883,Lead / Non-Lead,Address 367
+Magnificent Mile,41.8908475925584,-87.62400260073863,No Data / Galvanized Iron,Address 368
+Magnificent Mile,41.89539867414287,-87.62410295403797,No Data / Non-Lead,Address 369
+Magnificent Mile,41.894758620628366,-87.6239882917508,No Data / No Data,Address 370
+Lincoln Square,41.96878429616034,-87.6949014999841,Galvanized Iron / Galvanized Iron,Address 371
+Lincoln Square,41.979773493622176,-87.68252019253681,Non-Lead / No Data,Address 372
+Lincoln Square,41.981190458255824,-87.70583357246163,No Data / Non-Lead,Address 373
+Lincoln Square,41.98336408525418,-87.67616332926359,No Data / Non-Lead,Address 374
+Lincoln Square,41.97433013540824,-87.70234750118495,No Data / Non-Lead,Address 375
+Lincoln Square,41.98148232323292,-87.70367052984618,Non-Lead / No Data,Address 376
+Lincoln Square,41.98155470799812,-87.68894682794398,Lead / Non-Lead,Address 377
+Lincoln Square,41.96261181245175,-87.67411647054976,Lead / Galvanized Iron,Address 378
+Lincoln Square,41.97930442002748,-87.67813485295088,Galvanized Iron / Galvanized Iron,Address 379
+Lincoln Square,41.97582157677788,-87.69186722931246,Galvanized Iron / Non-Lead,Address 380
+Oakland,41.82657247679495,-87.61055013859252,Lead / Non-Lead,Address 381
+Oakland,41.821516090043474,-87.59891373174749,Galvanized Iron / Galvanized Iron,Address 382
+Oakland,41.82131736629844,-87.60421442366858,Lead / Lead,Address 383
+Oakland,41.8243897766552,-87.60924349064678,No Data / Galvanized Iron,Address 384
+Oakland,41.818521045298155,-87.60068408822174,Galvanized Iron / Non-Lead,Address 385
+Oakland,41.81781138066446,-87.5990638569422,Lead / Non-Lead,Address 386
+Oakland,41.82786353564681,-87.60262262888817,No Data / No Data,Address 387
+Oakland,41.82923325692045,-87.60728603451152,No Data / Galvanized Iron,Address 388
+Oakland,41.82058074031047,-87.60434632306368,Lead / Lead,Address 389
+Oakland,41.82912840324861,-87.60175347027634,Non-Lead / Lead,Address 390
+Grant Park,41.873584104009005,-87.62389445624348,No Data / Galvanized Iron,Address 391
+Grant Park,41.86942863524277,-87.62193730184781,Non-Lead / Lead,Address 392
+Grant Park,41.86816648935127,-87.62134691683637,No Data / No Data,Address 393
+Grant Park,41.88014832967997,-87.61884665058633,Lead / No Data,Address 394
+Grant Park,41.87969543336842,-87.61947318966722,Lead / No Data,Address 395
+Grant Park,41.88050326347064,-87.6235507645973,Lead / Non-Lead,Address 396
+Grant Park,41.87332374736997,-87.61943518143823,Non-Lead / Non-Lead,Address 397
+Grant Park,41.878546369675135,-87.62149042700732,Non-Lead / No Data,Address 398
+Grant Park,41.875488652177864,-87.6206705907297,Non-Lead / No Data,Address 399
+Grant Park,41.87535668456804,-87.6230202021454,No Data / Lead,Address 400
+West Loop,41.880338740420456,-87.66603855016527,Galvanized Iron / Non-Lead,Address 401
+West Loop,41.86902940287836,-87.64266446724555,Galvanized Iron / Non-Lead,Address 402
+West Loop,41.8783753575637,-87.65108856309534,Non-Lead / Non-Lead,Address 403
+West Loop,41.88369566826011,-87.66173863995948,No Data / Lead,Address 404
+West Loop,41.88284327106115,-87.653138394834,Lead / Galvanized Iron,Address 405
+West Loop,41.883185951216085,-87.65865162726463,No Data / No Data,Address 406
+West Loop,41.88206994975263,-87.64234309556907,Non-Lead / Non-Lead,Address 407
+West Loop,41.87952480551678,-87.65223817476566,Galvanized Iron / Galvanized Iron,Address 408
+West Loop,41.883048949765815,-87.64653642297209,Lead / Galvanized Iron,Address 409
+West Loop,41.8828191097097,-87.64951789604486,Galvanized Iron / Galvanized Iron,Address 410
+Fuller Park,41.82101433657604,-87.6325564936042,No Data / No Data,Address 411
+Fuller Park,41.79516472156495,-87.63140118323534,Non-Lead / Non-Lead,Address 412
+Fuller Park,41.81250071659227,-87.63137615841734,Non-Lead / No Data,Address 413
+Fuller Park,41.820743894640145,-87.63244323741542,Galvanized Iron / Galvanized Iron,Address 414
+Fuller Park,41.804969546834045,-87.63405713503782,Galvanized Iron / Non-Lead,Address 415
+Fuller Park,41.81721084767852,-87.63304570198174,Lead / Non-Lead,Address 416
+Fuller Park,41.81983444042689,-87.63003124244553,Lead / Lead,Address 417
+Fuller Park,41.814844002841426,-87.62992177999043,No Data / Galvanized Iron,Address 418
+Fuller Park,41.81042112139756,-87.63058992712749,Lead / Lead,Address 419
+Fuller Park,41.799892484554746,-87.63386409591111,No Data / No Data,Address 420
+Andersonville,41.98010418461314,-87.6647651276951,Lead / Lead,Address 421
+Andersonville,41.978146069710384,-87.66986110895522,No Data / Lead,Address 422
+Andersonville,41.97953156469978,-87.66417275667348,Lead / Lead,Address 423
+Andersonville,41.97852761049851,-87.66631048389709,No Data / Non-Lead,Address 424
+Andersonville,41.97783466510357,-87.66446542722218,Non-Lead / Non-Lead,Address 425
+Andersonville,41.98125482469036,-87.67028388701404,Lead / Lead,Address 426
+Andersonville,41.98260758497335,-87.670140989378,Lead / Lead,Address 427
+Andersonville,41.97812658519529,-87.67119516754198,Non-Lead / Non-Lead,Address 428
+Andersonville,41.98196239402365,-87.67231495478467,Galvanized Iron / Non-Lead,Address 429
+Andersonville,41.97704203112662,-87.66147854584125,No Data / Non-Lead,Address 430
+Woodlawn,41.7811596015199,-87.58734972425941,No Data / Lead,Address 431
+Woodlawn,41.78052969775768,-87.61431227881893,No Data / Lead,Address 432
+Woodlawn,41.776059097064625,-87.58947319716897,Non-Lead / Non-Lead,Address 433
+Woodlawn,41.77712842515167,-87.596248906584,Lead / No Data,Address 434
+Woodlawn,41.77473679473626,-87.60578574661274,Lead / No Data,Address 435
+Woodlawn,41.777095512101106,-87.60034794866428,No Data / Galvanized Iron,Address 436
+Woodlawn,41.7753094553405,-87.5984126456546,Lead / Non-Lead,Address 437
+Woodlawn,41.7744025710792,-87.61426018466905,No Data / Lead,Address 438
+Woodlawn,41.774759734275925,-87.61162690379163,Lead / Lead,Address 439
+Woodlawn,41.78475063390599,-87.60325961257324,No Data / Non-Lead,Address 440
+Portage Park,41.94407104060532,-87.76422632836733,No Data / No Data,Address 441
+Portage Park,41.94269677669577,-87.74260011457925,Non-Lead / Lead,Address 442
+Portage Park,41.96081467218836,-87.78386991655302,No Data / No Data,Address 443
+Portage Park,41.96021222689522,-87.78528224159963,Non-Lead / Lead,Address 444
+Portage Park,41.95120787830924,-87.75070125186993,Lead / Non-Lead,Address 445
+Portage Park,41.964170224507114,-87.77211813058913,Lead / Non-Lead,Address 446
+Portage Park,41.941920758225365,-87.74579635705987,Galvanized Iron / Galvanized Iron,Address 447
+Portage Park,41.944488633953625,-87.7648079975322,Lead / Non-Lead,Address 448
+Portage Park,41.94900771534628,-87.7632061535411,No Data / Galvanized Iron,Address 449
+Portage Park,41.94605350949401,-87.76998415197355,No Data / No Data,Address 450
+Rush & Division,41.89756032240043,-87.62603262436414,Galvanized Iron / Galvanized Iron,Address 451
+Rush & Division,41.897244919683644,-87.62705676299053,Lead / Galvanized Iron,Address 452
+Rush & Division,41.89712309896829,-87.62850635082648,Lead / No Data,Address 453
+Rush & Division,41.90361523104565,-87.6300621765101,Galvanized Iron / Galvanized Iron,Address 454
+Rush & Division,41.90303562268913,-87.6290679742612,Galvanized Iron / Galvanized Iron,Address 455
+Rush & Division,41.897589101047224,-87.626020862438,Galvanized Iron / Galvanized Iron,Address 456
+Rush & Division,41.89768571452692,-87.63077514765007,No Data / Galvanized Iron,Address 457
+Rush & Division,41.896431229164996,-87.62777223599048,Non-Lead / No Data,Address 458
+Rush & Division,41.89979548184278,-87.63013873308935,Lead / Non-Lead,Address 459
+Rush & Division,41.900657912817096,-87.63080037703966,Non-Lead / Lead,Address 460
+"Little Italy, UIC",41.87010878071151,-87.65159200780282,Non-Lead / No Data,Address 461
+"Little Italy, UIC",41.871264176421654,-87.64809795870988,No Data / Galvanized Iron,Address 462
+"Little Italy, UIC",41.8637213496934,-87.68757763463283,No Data / Non-Lead,Address 463
+"Little Italy, UIC",41.869156948142304,-87.67439734926069,Non-Lead / Galvanized Iron,Address 464
+"Little Italy, UIC",41.865430462351256,-87.65719724695923,Non-Lead / No Data,Address 465
+"Little Italy, UIC",41.865836064012484,-87.68518456310157,No Data / No Data,Address 466
+"Little Italy, UIC",41.87167496959673,-87.66081531176543,Non-Lead / Galvanized Iron,Address 467
+"Little Italy, UIC",41.87172422729729,-87.6911297697913,No Data / No Data,Address 468
+"Little Italy, UIC",41.8644830451399,-87.68787716635225,Non-Lead / No Data,Address 469
+"Little Italy, UIC",41.87341121405476,-87.68724561668279,Lead / Lead,Address 470
+Kenwood,41.812236938165334,-87.6045790005584,Lead / No Data,Address 471
+Kenwood,41.81075713989835,-87.59056579746269,No Data / Lead,Address 472
+Kenwood,41.81381249964976,-87.59946359889439,Lead / No Data,Address 473
+Kenwood,41.804053796090656,-87.58599553475665,Non-Lead / No Data,Address 474
+Kenwood,41.805781989873175,-87.5906564173714,Lead / Galvanized Iron,Address 475
+Kenwood,41.80514711455819,-87.58661363651451,Non-Lead / Galvanized Iron,Address 476
+Kenwood,41.813234856831244,-87.59140430320582,Lead / Galvanized Iron,Address 477
+Kenwood,41.811176268008126,-87.59906244023722,No Data / Galvanized Iron,Address 478
+Kenwood,41.8048006213945,-87.59522708856841,Lead / Galvanized Iron,Address 479
+Kenwood,41.81043035734752,-87.60026601337722,Non-Lead / Non-Lead,Address 480
+Rogers Park,42.008061880821735,-87.67985712090024,Lead / Non-Lead,Address 481
+Rogers Park,42.01219119491664,-87.67186142743998,Lead / Galvanized Iron,Address 482
+Rogers Park,42.01201329136313,-87.66426459160196,No Data / Lead,Address 483
+Rogers Park,42.004176596631694,-87.67724573452087,Lead / Non-Lead,Address 484
+Rogers Park,41.99838972729072,-87.65817473647186,No Data / Galvanized Iron,Address 485
+Rogers Park,42.000992496059716,-87.66443125059992,Non-Lead / No Data,Address 486
+Rogers Park,42.00662446462662,-87.6590222390483,Lead / No Data,Address 487
+Rogers Park,42.00488971660696,-87.66282887132282,Lead / No Data,Address 488
+Rogers Park,42.00605188125812,-87.66836230503358,Galvanized Iron / Galvanized Iron,Address 489
+Rogers Park,42.01458965400398,-87.6763775178501,No Data / Lead,Address 490
+Jefferson Park,41.97600385930917,-87.75725890578924,Non-Lead / Galvanized Iron,Address 491
+Jefferson Park,41.96900828431959,-87.77557124837841,Galvanized Iron / Non-Lead,Address 492
+Jefferson Park,41.98082564623723,-87.76076555870291,Non-Lead / Non-Lead,Address 493
+Jefferson Park,41.971090540569556,-87.78767982746533,Non-Lead / Lead,Address 494
+Jefferson Park,41.96882552642258,-87.77488058303545,Non-Lead / No Data,Address 495
+Jefferson Park,41.97401795732092,-87.78009910090213,Non-Lead / Lead,Address 496
+Jefferson Park,41.98128634245998,-87.77544543062517,No Data / Lead,Address 497
+Jefferson Park,41.98616550761778,-87.76225100900459,Non-Lead / No Data,Address 498
+Jefferson Park,41.97839685078833,-87.78711524944589,No Data / No Data,Address 499
+Jefferson Park,41.9787530427987,-87.76299249961838,No Data / Lead,Address 500
+"Sauganash,Forest Glen",41.99889407304977,-87.75862612243549,Galvanized Iron / Galvanized Iron,Address 501
+"Sauganash,Forest Glen",41.989964072721996,-87.74682501013842,Lead / No Data,Address 502
+"Sauganash,Forest Glen",41.991144646096416,-87.73838251172359,No Data / Galvanized Iron,Address 503
+"Sauganash,Forest Glen",41.99135513994046,-87.75280220606838,No Data / Non-Lead,Address 504
+"Sauganash,Forest Glen",42.000609753642834,-87.7828930676223,No Data / Lead,Address 505
+"Sauganash,Forest Glen",41.98475223383749,-87.75332910003021,Lead / No Data,Address 506
+"Sauganash,Forest Glen",42.00862611771304,-87.77644580734554,Lead / Lead,Address 507
+"Sauganash,Forest Glen",41.98777362795392,-87.7554284166117,No Data / Lead,Address 508
+"Sauganash,Forest Glen",41.992681621156066,-87.76089081278438,Lead / Non-Lead,Address 509
+"Sauganash,Forest Glen",41.99566932921843,-87.76550772466426,Galvanized Iron / Non-Lead,Address 510
+North Park,41.978674056052384,-87.72123169902216,No Data / Galvanized Iron,Address 511
+North Park,41.981489371556634,-87.72337054196251,No Data / Lead,Address 512
+North Park,41.98348596911451,-87.72328274521612,Lead / Galvanized Iron,Address 513
+North Park,41.981705203420276,-87.71367429478389,Lead / No Data,Address 514
+North Park,41.977583967211004,-87.70554124712352,Galvanized Iron / Galvanized Iron,Address 515
+North Park,41.983294709547835,-87.73796993185232,Galvanized Iron / Galvanized Iron,Address 516
+North Park,41.97405859756455,-87.71415528419973,Non-Lead / Galvanized Iron,Address 517
+North Park,41.980177205272234,-87.73667447326824,Lead / Lead,Address 518
+North Park,41.977536380386304,-87.71673417286259,No Data / Lead,Address 519
+North Park,41.99175259712812,-87.71573589095829,Lead / Galvanized Iron,Address 520
+Albany Park,41.9637427430616,-87.70976309897557,Non-Lead / Galvanized Iron,Address 521
+Albany Park,41.967093703256026,-87.72313807630808,Non-Lead / Non-Lead,Address 522
+Albany Park,41.96321428655002,-87.71704946870364,Lead / No Data,Address 523
+Albany Park,41.96231333349049,-87.71987380449946,Non-Lead / No Data,Address 524
+Albany Park,41.96113856030115,-87.72283884706246,No Data / Lead,Address 525
+Albany Park,41.9624876867662,-87.71223084212946,No Data / Galvanized Iron,Address 526
+Albany Park,41.97212966212175,-87.70678742981647,No Data / Galvanized Iron,Address 527
+Albany Park,41.97464551995987,-87.72357062761883,Non-Lead / Non-Lead,Address 528
+Albany Park,41.968906310239696,-87.72094629445802,No Data / No Data,Address 529
+Albany Park,41.967004470630116,-87.72321107368705,No Data / Lead,Address 530
+Irving Park,41.95650786790613,-87.72313940768588,Non-Lead / Galvanized Iron,Address 531
+Irving Park,41.95775342965237,-87.72976272184437,No Data / Galvanized Iron,Address 532
+Irving Park,41.941681115025965,-87.73371834748966,Lead / Galvanized Iron,Address 533
+Irving Park,41.94975519920865,-87.71616531980172,Lead / No Data,Address 534
+Irving Park,41.96113165398428,-87.73149409404178,No Data / Lead,Address 535
+Irving Park,41.947265698784314,-87.71830150857124,Lead / Galvanized Iron,Address 536
+Irving Park,41.9430453108746,-87.74003877038716,Non-Lead / Non-Lead,Address 537
+Irving Park,41.94307179539245,-87.73648837847313,Non-Lead / Non-Lead,Address 538
+Irving Park,41.958950785259006,-87.74473909899544,Galvanized Iron / Non-Lead,Address 539
+Irving Park,41.94977816083415,-87.74118757977536,No Data / No Data,Address 540
+Dunning,41.94562879785394,-87.80229910593938,Non-Lead / No Data,Address 541
+Dunning,41.95888277480648,-87.83623534956534,Lead / Non-Lead,Address 542
+Dunning,41.95064636435237,-87.83291211920623,Non-Lead / No Data,Address 543
+Dunning,41.94941175761234,-87.80533502113622,Lead / Non-Lead,Address 544
+Dunning,41.95255605781582,-87.80555232529925,No Data / Lead,Address 545
+Dunning,41.95024477224024,-87.79468056638288,No Data / Lead,Address 546
+Dunning,41.946334022654355,-87.81670689125535,Lead / Lead,Address 547
+Dunning,41.94626649058764,-87.8254388469892,Non-Lead / No Data,Address 548
+Dunning,41.94907279618802,-87.79823514438174,No Data / No Data,Address 549
+Dunning,41.946875654803044,-87.81366167611677,No Data / Galvanized Iron,Address 550
+West Ridge,41.99523467277233,-87.67558915468297,Lead / Lead,Address 551
+West Ridge,42.013165955484034,-87.69271081657675,Lead / Non-Lead,Address 552
+West Ridge,42.01312570488849,-87.6964901039115,Non-Lead / Galvanized Iron,Address 553
+West Ridge,42.00935645879738,-87.69463067370197,Non-Lead / Galvanized Iron,Address 554
+West Ridge,42.01759894407426,-87.69224433290927,No Data / Galvanized Iron,Address 555
+West Ridge,41.992811693095746,-87.67519499021618,Galvanized Iron / Galvanized Iron,Address 556
+West Ridge,42.01410519115183,-87.69232852616864,Non-Lead / Galvanized Iron,Address 557
+West Ridge,42.005918981383765,-87.69608155546406,Galvanized Iron / Non-Lead,Address 558
+West Ridge,41.99718727441928,-87.70234560613245,Lead / Non-Lead,Address 559
+West Ridge,41.995652083503124,-87.70290872545772,Galvanized Iron / Non-Lead,Address 560
+Uptown,41.974266799216906,-87.65410026773768,Galvanized Iron / Galvanized Iron,Address 561
+Uptown,41.97219207467008,-87.65864807445789,Non-Lead / No Data,Address 562
+Uptown,41.97038306231249,-87.67267058098969,Non-Lead / No Data,Address 563
+Uptown,41.9569788422007,-87.64209627846728,Non-Lead / No Data,Address 564
+Uptown,41.957367259033504,-87.64788297195004,No Data / Galvanized Iron,Address 565
+Uptown,41.973527580125335,-87.6644340686075,No Data / No Data,Address 566
+Uptown,41.97057805030057,-87.6483058685002,No Data / Galvanized Iron,Address 567
+Uptown,41.96462971339178,-87.6580980010581,Galvanized Iron / Galvanized Iron,Address 568
+Uptown,41.974809760163076,-87.64990320863879,No Data / Non-Lead,Address 569
+Uptown,41.97471052460887,-87.66545764820609,Non-Lead / Lead,Address 570
+Norwood Park,41.98080190345135,-87.79660886608104,Galvanized Iron / Non-Lead,Address 571
+Norwood Park,41.977575591246065,-87.83649567894237,Non-Lead / Galvanized Iron,Address 572
+Norwood Park,41.98604497357512,-87.79020514460656,No Data / Galvanized Iron,Address 573
+Norwood Park,41.99487562321114,-87.8085350565245,Lead / No Data,Address 574
+Norwood Park,41.99455875889227,-87.78666023966575,Non-Lead / Non-Lead,Address 575
+Norwood Park,41.97149679801406,-87.80330613757113,Lead / Non-Lead,Address 576
+Norwood Park,41.98618756154448,-87.8172760906646,No Data / No Data,Address 577
+Norwood Park,41.997620256192654,-87.79896251093724,No Data / Galvanized Iron,Address 578
+Norwood Park,41.987755539276485,-87.82085961776717,No Data / No Data,Address 579
+Norwood Park,41.98160617561407,-87.79083511323613,Lead / Galvanized Iron,Address 580
+Streeterville,41.89379061314398,-87.6170882565367,Non-Lead / No Data,Address 581
+Streeterville,41.89354146446007,-87.61135396247137,Lead / No Data,Address 582
+Streeterville,41.893221498146524,-87.6223173092548,Non-Lead / Non-Lead,Address 583
+Streeterville,41.888962871986024,-87.61299247676274,Non-Lead / Galvanized Iron,Address 584
+Streeterville,41.89393849698206,-87.62369434976752,Non-Lead / Non-Lead,Address 585
+Streeterville,41.892127006523886,-87.60720039069244,Lead / Galvanized Iron,Address 586
+Streeterville,41.889260974986215,-87.60936730419724,No Data / No Data,Address 587
+Streeterville,41.895752374370005,-87.6101903082251,Lead / No Data,Address 588
+Streeterville,41.89170546783337,-87.60425999373206,Lead / Lead,Address 589
+Streeterville,41.89957494208899,-87.62497248440505,Galvanized Iron / Galvanized Iron,Address 590
+South Shore,41.75346921382695,-87.55508339056018,Non-Lead / Lead,Address 591
+South Shore,41.7729482573691,-87.57827632965642,Galvanized Iron / Non-Lead,Address 592
+South Shore,41.75752978421493,-87.59025492721247,Lead / Non-Lead,Address 593
+South Shore,41.761443054979495,-87.5653319903099,No Data / Non-Lead,Address 594
+South Shore,41.77173479635798,-87.58297483713768,Lead / Galvanized Iron,Address 595
+South Shore,41.75715528978689,-87.58261650738973,Non-Lead / Lead,Address 596
+South Shore,41.76939644014519,-87.57942538161517,Non-Lead / Lead,Address 597
+South Shore,41.7632503793436,-87.56366309427287,Non-Lead / Galvanized Iron,Address 598
+South Shore,41.7688230511296,-87.57905601049687,Lead / Lead,Address 599
+South Shore,41.76164128302752,-87.5933896169084,Non-Lead / Lead,Address 600
+Chatham,41.746226756005136,-87.63548118895291,Galvanized Iron / Galvanized Iron,Address 601
+Chatham,41.74466717136359,-87.61841621547794,Galvanized Iron / Non-Lead,Address 602
+Chatham,41.7390998648192,-87.61666351868648,Non-Lead / Lead,Address 603
+Chatham,41.731240428585934,-87.61842257254648,Non-Lead / No Data,Address 604
+Chatham,41.74556438643409,-87.62955175361535,Non-Lead / Galvanized Iron,Address 605
+Chatham,41.74222842135027,-87.61289150853666,No Data / Lead,Address 606
+Chatham,41.74837863793443,-87.61573426129378,Non-Lead / No Data,Address 607
+Chatham,41.74925919899676,-87.63617025975708,Galvanized Iron / Non-Lead,Address 608
+Chatham,41.74834382292699,-87.60228234377422,Non-Lead / No Data,Address 609
+Chatham,41.74888249790242,-87.59844283444949,Non-Lead / Galvanized Iron,Address 610
+South Chicago,41.7426069324632,-87.53121292507227,Non-Lead / Galvanized Iron,Address 611
+South Chicago,41.74710924746162,-87.53944372535442,No Data / Lead,Address 612
+South Chicago,41.74674226072493,-87.53509440458014,No Data / Non-Lead,Address 613
+South Chicago,41.73876883947522,-87.55898427474791,No Data / Galvanized Iron,Address 614
+South Chicago,41.73232506151988,-87.54903619174647,No Data / No Data,Address 615
+South Chicago,41.75093280634008,-87.57905022426027,Non-Lead / No Data,Address 616
+South Chicago,41.75164079795009,-87.5406179604991,Non-Lead / Lead,Address 617
+South Chicago,41.734841116451584,-87.55782093391414,No Data / Lead,Address 618
+South Chicago,41.74469052246723,-87.53919593507213,No Data / Galvanized Iron,Address 619
+South Chicago,41.73880919256349,-87.56011345982903,Galvanized Iron / Non-Lead,Address 620
+Roseland,41.70910266944273,-87.61415974422599,Lead / No Data,Address 621
+Roseland,41.72962036002072,-87.63287731306549,Non-Lead / Galvanized Iron,Address 622
+Roseland,41.70954902036419,-87.61958734646488,No Data / No Data,Address 623
+Roseland,41.70473057507533,-87.6339259820084,Non-Lead / Galvanized Iron,Address 624
+Roseland,41.713608748306655,-87.6192258776705,No Data / Galvanized Iron,Address 625
+Roseland,41.72330026483292,-87.61327202096987,Non-Lead / No Data,Address 626
+Roseland,41.712464713621095,-87.6111657485849,Non-Lead / Galvanized Iron,Address 627
+Roseland,41.69415254847103,-87.61866817144018,No Data / Lead,Address 628
+Roseland,41.714106018488586,-87.61661439595538,No Data / Galvanized Iron,Address 629
+Roseland,41.71472581996835,-87.61874084572885,Galvanized Iron / Galvanized Iron,Address 630
+North Center,41.94638875226269,-87.67737072264535,Non-Lead / Non-Lead,Address 631
+North Center,41.940925304243855,-87.68440348386137,No Data / No Data,Address 632
+North Center,41.9562642704159,-87.69058894048956,No Data / Galvanized Iron,Address 633
+North Center,41.938453961954075,-87.6748512465342,Lead / No Data,Address 634
+North Center,41.95865829808556,-87.67655466144771,No Data / Lead,Address 635
+North Center,41.93630775424985,-87.68089423674458,Non-Lead / Lead,Address 636
+North Center,41.9546287250975,-87.68182783426661,Non-Lead / No Data,Address 637
+North Center,41.960771507689856,-87.68565740609478,No Data / Lead,Address 638
+North Center,41.94358330458183,-87.69173861038362,Lead / Galvanized Iron,Address 639
+North Center,41.949532495482075,-87.67505776025907,Non-Lead / No Data,Address 640
+South Deering,41.68707689419041,-87.56310116853052,No Data / Lead,Address 641
+South Deering,41.70289444848728,-87.57154100256082,Lead / No Data,Address 642
+South Deering,41.712486039228786,-87.56312243624022,Non-Lead / Galvanized Iron,Address 643
+South Deering,41.684018344412664,-87.5888923500945,Non-Lead / Non-Lead,Address 644
+South Deering,41.689988832655295,-87.56426899327352,Non-Lead / Non-Lead,Address 645
+South Deering,41.66912460148957,-87.56899373251049,No Data / No Data,Address 646
+South Deering,41.67652578139153,-87.54995733733543,Lead / Lead,Address 647
+South Deering,41.66314166053271,-87.56595389628528,Lead / Non-Lead,Address 648
+South Deering,41.71814457019585,-87.54510407114427,Lead / Non-Lead,Address 649
+South Deering,41.67742723731035,-87.58827606638796,Non-Lead / Galvanized Iron,Address 650
+Washington Park,41.7834840901634,-87.62563407797218,Lead / No Data,Address 651
+Washington Park,41.782510210926574,-87.6165603640015,Lead / Galvanized Iron,Address 652
+Washington Park,41.79497168123695,-87.6165339906857,No Data / Lead,Address 653
+Washington Park,41.78894613094997,-87.62658260246123,Non-Lead / Galvanized Iron,Address 654
+Washington Park,41.80091597087703,-87.62719101512796,Non-Lead / Galvanized Iron,Address 655
+Washington Park,41.80001957460299,-87.6210291668903,Non-Lead / Galvanized Iron,Address 656
+Washington Park,41.78840111299177,-87.6275671515618,No Data / Galvanized Iron,Address 657
+Washington Park,41.7991351236468,-87.62842859370103,Non-Lead / Non-Lead,Address 658
+Washington Park,41.79498690297973,-87.62310680947354,No Data / Lead,Address 659
+Washington Park,41.795782620670714,-87.61200601793398,Non-Lead / No Data,Address 660
+Millenium Park,41.88103673012651,-87.62196252902243,Non-Lead / Non-Lead,Address 661
+Millenium Park,41.88113394837057,-87.61971102753789,No Data / Galvanized Iron,Address 662
+Millenium Park,41.88200677092303,-87.61856977856601,No Data / Galvanized Iron,Address 663
+Millenium Park,41.882407683413014,-87.61882539661087,No Data / No Data,Address 664
+Millenium Park,41.88261270654464,-87.6183396349679,Lead / Non-Lead,Address 665
+Millenium Park,41.88382762981417,-87.61814440653737,Lead / Non-Lead,Address 666
+Millenium Park,41.883315123911004,-87.61989354138656,No Data / Galvanized Iron,Address 667
+Millenium Park,41.88430514769536,-87.62432105519603,Lead / Non-Lead,Address 668
+Millenium Park,41.882390810722704,-87.62216464552966,Lead / Galvanized Iron,Address 669
+Millenium Park,41.88173078738154,-87.62118272659464,Non-Lead / Non-Lead,Address 670
+Near South Side,41.84776194892428,-87.6263089127564,Lead / No Data,Address 671
+Near South Side,41.84911826929532,-87.62120283828185,Lead / No Data,Address 672
+Near South Side,41.86666379920113,-87.62744650604108,No Data / Lead,Address 673
+Near South Side,41.848140446231135,-87.62368345133233,No Data / No Data,Address 674
+Near South Side,41.85532132146451,-87.62356543982233,Lead / Galvanized Iron,Address 675
+Near South Side,41.84634444340664,-87.6244796090569,Non-Lead / Non-Lead,Address 676
+Near South Side,41.865625617264335,-87.63047231722659,Non-Lead / Galvanized Iron,Address 677
+Near South Side,41.85011130679564,-87.62832420356314,Non-Lead / Galvanized Iron,Address 678
+Near South Side,41.86231551729242,-87.62994754115124,Non-Lead / Lead,Address 679
+Near South Side,41.84525718888438,-87.61426992687754,No Data / Galvanized Iron,Address 680
+Chinatown,41.84900552600864,-87.63764110018121,Lead / Lead,Address 681
+Chinatown,41.85096771839766,-87.63758148133323,No Data / Non-Lead,Address 682
+Chinatown,41.85046227997577,-87.6359243308343,No Data / Galvanized Iron,Address 683
+Chinatown,41.85343222748363,-87.63525698372462,Non-Lead / Galvanized Iron,Address 684
+Chinatown,41.85559495240648,-87.63031927759197,No Data / Galvanized Iron,Address 685
+Chinatown,41.85574186815768,-87.63625937311733,Non-Lead / Lead,Address 686
+Chinatown,41.85717872814964,-87.63294435963498,No Data / Non-Lead,Address 687
+Chinatown,41.850321524161934,-87.63959577905281,Lead / No Data,Address 688
+Chinatown,41.85063550868112,-87.64148248126321,No Data / Galvanized Iron,Address 689
+Chinatown,41.84965277904178,-87.6335417659443,Lead / Galvanized Iron,Address 690
+Chicago Lawn,41.75869653281833,-87.69003523959181,Non-Lead / Galvanized Iron,Address 691
+Chicago Lawn,41.77367596223177,-87.69420550675555,Galvanized Iron / Galvanized Iron,Address 692
+Chicago Lawn,41.76112709661889,-87.68459327082209,Non-Lead / Non-Lead,Address 693
+Chicago Lawn,41.76686410117818,-87.70978751125558,Non-Lead / Lead,Address 694
+Chicago Lawn,41.77228916441549,-87.68575788576285,Non-Lead / No Data,Address 695
+Chicago Lawn,41.761955440228625,-87.6899616038777,Non-Lead / Non-Lead,Address 696
+Chicago Lawn,41.784636419372646,-87.69927814694451,Galvanized Iron / Non-Lead,Address 697
+Chicago Lawn,41.7839884542074,-87.69381184828889,No Data / No Data,Address 698
+Chicago Lawn,41.76078533132658,-87.6797253176399,Lead / Galvanized Iron,Address 699
+Chicago Lawn,41.76535685862783,-87.69768811184397,Non-Lead / Non-Lead,Address 700
+Auburn Gresham,41.7384068082994,-87.67245460749413,No Data / Non-Lead,Address 701
+Auburn Gresham,41.74924158802943,-87.66676309447372,Non-Lead / Galvanized Iron,Address 702
+Auburn Gresham,41.72970736915126,-87.64259428979331,Galvanized Iron / Non-Lead,Address 703
+Auburn Gresham,41.73732289121538,-87.6597638678013,Galvanized Iron / Galvanized Iron,Address 704
+Auburn Gresham,41.74360253677884,-87.66842352426043,Lead / Lead,Address 705
+Auburn Gresham,41.74763312512642,-87.67578873372202,Lead / Lead,Address 706
+Auburn Gresham,41.73749509563393,-87.66043998628032,Non-Lead / Lead,Address 707
+Auburn Gresham,41.753499349804876,-87.66559704125198,Non-Lead / Non-Lead,Address 708
+Auburn Gresham,41.7314562804572,-87.66542883931571,No Data / Lead,Address 709
+Auburn Gresham,41.75584449133816,-87.6406907109757,No Data / No Data,Address 710
+Beverly,41.70327325940519,-87.67147515328428,Non-Lead / Non-Lead,Address 711
+Beverly,41.701036025458684,-87.66212673532007,No Data / Lead,Address 712
+Beverly,41.725214797506155,-87.67551344743772,Non-Lead / Non-Lead,Address 713
+Beverly,41.700811976638015,-87.68611385896295,Galvanized Iron / Non-Lead,Address 714
+Beverly,41.71177712077793,-87.66477065452275,No Data / Galvanized Iron,Address 715
+Beverly,41.72270607017973,-87.66843119023356,Lead / Galvanized Iron,Address 716
+Beverly,41.70554175008251,-87.67008089525864,Non-Lead / Galvanized Iron,Address 717
+Beverly,41.724829874813835,-87.6688662701017,Non-Lead / Galvanized Iron,Address 718
+Beverly,41.70834794841779,-87.68597486567069,No Data / Galvanized Iron,Address 719
+Beverly,41.71246282437874,-87.6895473490114,Lead / No Data,Address 720
+Washington Heights,41.70742883164348,-87.64890151944358,No Data / Galvanized Iron,Address 721
+Washington Heights,41.73103722347056,-87.66082988400906,Non-Lead / Lead,Address 722
+Washington Heights,41.700043108758855,-87.65807234583951,Galvanized Iron / Galvanized Iron,Address 723
+Washington Heights,41.72842372897572,-87.63624119230347,Galvanized Iron / Non-Lead,Address 724
+Washington Heights,41.71752901113295,-87.64994665090018,Lead / Galvanized Iron,Address 725
+Washington Heights,41.71512262398482,-87.65907617050514,Lead / Lead,Address 726
+Washington Heights,41.71780254954407,-87.64342398008661,Lead / No Data,Address 727
+Washington Heights,41.721760053829136,-87.65300952646082,Galvanized Iron / Non-Lead,Address 728
+Washington Heights,41.722163234918426,-87.64322951244785,Galvanized Iron / Galvanized Iron,Address 729
+Washington Heights,41.699829704838855,-87.65461509687269,Galvanized Iron / Galvanized Iron,Address 730
+Edison Park,42.01059035936111,-87.81850462812899,Non-Lead / Galvanized Iron,Address 731
+Edison Park,42.011819275016904,-87.81670538473874,Lead / Lead,Address 732
+Edison Park,41.99551668391599,-87.80995069331107,Non-Lead / No Data,Address 733
+Edison Park,42.01619865338058,-87.8103897546841,No Data / Lead,Address 734
+Edison Park,42.004391712040025,-87.81685390767302,Non-Lead / Non-Lead,Address 735
+Edison Park,42.0102901592601,-87.81488612423077,No Data / Lead,Address 736
+Edison Park,42.00826506319936,-87.81846468314944,Lead / Non-Lead,Address 737
+Edison Park,42.01035393559792,-87.81358322721962,No Data / Lead,Address 738
+Edison Park,42.011967186338104,-87.80941638129187,Lead / Lead,Address 739
+Edison Park,42.01491545912122,-87.81204955776333,Galvanized Iron / Galvanized Iron,Address 740
+Hyde Park,41.796458337583054,-87.59565381472271,No Data / Non-Lead,Address 741
+Hyde Park,41.79149069915023,-87.59435831111442,Lead / No Data,Address 742
+Hyde Park,41.795732167578684,-87.59192951793293,No Data / No Data,Address 743
+Hyde Park,41.78757051448234,-87.59146342685936,Lead / Non-Lead,Address 744
+Hyde Park,41.80153194946639,-87.60593358006035,Lead / Galvanized Iron,Address 745
+Hyde Park,41.79166630557685,-87.58781727605171,Non-Lead / Galvanized Iron,Address 746
+Hyde Park,41.7966922213515,-87.57910117923137,No Data / Galvanized Iron,Address 747
+Hyde Park,41.7928555432834,-87.5975039082952,No Data / Galvanized Iron,Address 748
+Hyde Park,41.793946357276724,-87.60446258077532,Galvanized Iron / Non-Lead,Address 749
+Hyde Park,41.79490075232584,-87.59919218295661,Non-Lead / Galvanized Iron,Address 750
+Bucktown,41.933163798651094,-87.68480239263678,Lead / Lead,Address 751
+Bucktown,41.92192933184119,-87.6765155740144,Non-Lead / Galvanized Iron,Address 752
+Bucktown,41.91849138464301,-87.6670743327336,Non-Lead / Non-Lead,Address 753
+Bucktown,41.914728493225184,-87.68457921389307,Non-Lead / Lead,Address 754
+Bucktown,41.918101397557884,-87.67717646829881,Lead / Non-Lead,Address 755
+Bucktown,41.9149391068267,-87.67533528233271,No Data / Lead,Address 756
+Bucktown,41.925111194437875,-87.67915853068928,Lead / Galvanized Iron,Address 757
+Bucktown,41.92042254848945,-87.6823217952499,No Data / No Data,Address 758
+Bucktown,41.91533266948489,-87.67978791475717,No Data / Non-Lead,Address 759
+Bucktown,41.92173987091519,-87.66882667411066,Lead / Galvanized Iron,Address 760
+Lower West Side,41.85748022934158,-87.66962358324264,No Data / Galvanized Iron,Address 761
+Lower West Side,41.84409164796305,-87.67994695704812,Lead / Lead,Address 762
+Lower West Side,41.85415635552535,-87.67718615546919,Non-Lead / Non-Lead,Address 763
+Lower West Side,41.85083143188323,-87.6453093984763,Non-Lead / Non-Lead,Address 764
+Lower West Side,41.85773233728621,-87.66241131962957,Galvanized Iron / Galvanized Iron,Address 765
+Lower West Side,41.856023625417095,-87.63919870895485,Galvanized Iron / Non-Lead,Address 766
+Lower West Side,41.85510857643715,-87.64856354903769,Galvanized Iron / Non-Lead,Address 767
+Lower West Side,41.85648534940682,-87.65934119509576,No Data / Lead,Address 768
+Lower West Side,41.84589733833468,-87.67657196279247,No Data / Non-Lead,Address 769
+Lower West Side,41.85137118892551,-87.64301957048094,Galvanized Iron / Galvanized Iron,Address 770
+Wrigleyville,41.95303500893389,-87.65718824127313,No Data / No Data,Address 771
+Wrigleyville,41.95365949854878,-87.66402810812055,Lead / Non-Lead,Address 772
+Wrigleyville,41.947385981145935,-87.66203562459609,No Data / Galvanized Iron,Address 773
+Wrigleyville,41.95357930475009,-87.6549924875958,No Data / No Data,Address 774
+Wrigleyville,41.953958146887686,-87.65768640750217,Lead / Lead,Address 775
+Wrigleyville,41.948937609495154,-87.6626225267591,Lead / Galvanized Iron,Address 776
+Wrigleyville,41.9523032104534,-87.65479396702916,Galvanized Iron / Non-Lead,Address 777
+Wrigleyville,41.949429881674625,-87.66090110802438,Lead / Lead,Address 778
+Wrigleyville,41.94828188622697,-87.66383774749403,Galvanized Iron / Non-Lead,Address 779
+Wrigleyville,41.953894395490856,-87.65681074928877,Non-Lead / No Data,Address 780
+Archer Heights,41.81031531477049,-87.72449978293852,Galvanized Iron / Galvanized Iron,Address 781
+Archer Heights,41.811052904493664,-87.73786427513267,Non-Lead / Lead,Address 782
+Archer Heights,41.82096051552891,-87.7183248505393,No Data / No Data,Address 783
+Archer Heights,41.80383556142359,-87.71738177402321,Lead / Galvanized Iron,Address 784
+Archer Heights,41.808795543294465,-87.73103690205863,Lead / No Data,Address 785
+Archer Heights,41.79978043205731,-87.72935869266769,No Data / No Data,Address 786
+Archer Heights,41.80703747068222,-87.71620185395989,Non-Lead / Non-Lead,Address 787
+Archer Heights,41.81457665745101,-87.7259441810574,Non-Lead / Non-Lead,Address 788
+Archer Heights,41.80162292005302,-87.72060068692915,Galvanized Iron / Galvanized Iron,Address 789
+Archer Heights,41.80193951089479,-87.73541484050992,Galvanized Iron / Galvanized Iron,Address 790
+Brighton Park,41.82083717981159,-87.69975912884843,Non-Lead / No Data,Address 791
+Brighton Park,41.823185795102624,-87.69216097469435,Non-Lead / Lead,Address 792
+Brighton Park,41.82614547827726,-87.70952050054123,Non-Lead / Non-Lead,Address 793
+Brighton Park,41.82477557705701,-87.69084864741377,Lead / Lead,Address 794
+Brighton Park,41.81659806963125,-87.70040036084796,Lead / Galvanized Iron,Address 795
+Brighton Park,41.80752017613521,-87.70913482410214,No Data / No Data,Address 796
+Brighton Park,41.82915921263199,-87.68797392706848,Lead / Galvanized Iron,Address 797
+Brighton Park,41.8204425976075,-87.70814237600092,Non-Lead / Galvanized Iron,Address 798
+Brighton Park,41.8128917622275,-87.68873772887306,Lead / No Data,Address 799
+Brighton Park,41.81859317879515,-87.71256788074975,Lead / Non-Lead,Address 800
+Mckinley Park,41.83629755991808,-87.66533120836168,Non-Lead / No Data,Address 801
+Mckinley Park,41.83239834981821,-87.66559231234538,Non-Lead / Galvanized Iron,Address 802
+Mckinley Park,41.82685978636528,-87.68174425758025,Galvanized Iron / Non-Lead,Address 803
+Mckinley Park,41.83411466578052,-87.67205586198547,No Data / Galvanized Iron,Address 804
+Mckinley Park,41.8370569112598,-87.66918476822421,Lead / Lead,Address 805
+Mckinley Park,41.83105641467243,-87.66304788572353,Lead / Galvanized Iron,Address 806
+Mckinley Park,41.83690975461405,-87.66581396883694,Non-Lead / Lead,Address 807
+Mckinley Park,41.82708564069321,-87.67406271591311,Lead / Galvanized Iron,Address 808
+Mckinley Park,41.82429665999974,-87.6584543642664,Lead / Non-Lead,Address 809
+Mckinley Park,41.82727524146076,-87.67705257860578,No Data / Lead,Address 810
+East Village,41.89938267065978,-87.67250583283942,Non-Lead / Non-Lead,Address 811
+East Village,41.90028757089382,-87.66949490186305,Non-Lead / No Data,Address 812
+East Village,41.89614302582901,-87.66773992504946,Non-Lead / Galvanized Iron,Address 813
+East Village,41.89914986170034,-87.67644590194605,Lead / Galvanized Iron,Address 814
+East Village,41.899078627884585,-87.6701730525855,Non-Lead / Non-Lead,Address 815
+East Village,41.89987544156519,-87.66761063225151,No Data / No Data,Address 816
+East Village,41.89653430893088,-87.66784150735988,Non-Lead / No Data,Address 817
+East Village,41.901829906320856,-87.67294153844755,Lead / Galvanized Iron,Address 818
+East Village,41.899280024800056,-87.66793969221827,No Data / Lead,Address 819
+East Village,41.89660784581447,-87.6717220200925,Non-Lead / No Data,Address 820
+West Town,41.89463638868296,-87.67337927832727,Lead / Galvanized Iron,Address 821
+West Town,41.89868697506821,-87.65921522224902,Galvanized Iron / Non-Lead,Address 822
+West Town,41.909589254283475,-87.66470823487411,No Data / Non-Lead,Address 823
+West Town,41.89206800141383,-87.64973754181418,Non-Lead / Galvanized Iron,Address 824
+West Town,41.89083415904418,-87.68481727540998,No Data / No Data,Address 825
+West Town,41.89448184000145,-87.65128047180725,Lead / No Data,Address 826
+West Town,41.91319586839349,-87.66743875312869,No Data / Non-Lead,Address 827
+West Town,41.90261618711403,-87.66538490430611,No Data / Galvanized Iron,Address 828
+West Town,41.89100696872025,-87.67230775340829,No Data / Galvanized Iron,Address 829
+West Town,41.89636931508154,-87.65102219241888,Lead / No Data,Address 830
+Bridgeport,41.82657048769007,-87.65502828319329,No Data / No Data,Address 831
+Bridgeport,41.84319077607647,-87.6404937086674,Lead / Galvanized Iron,Address 832
+Bridgeport,41.84702108516082,-87.65016618969612,No Data / Galvanized Iron,Address 833
+Bridgeport,41.847417396240814,-87.64517882824977,Non-Lead / Lead,Address 834
+Bridgeport,41.8288863498161,-87.6546343853976,Non-Lead / Galvanized Iron,Address 835
+Bridgeport,41.836902252188395,-87.64837305374726,Non-Lead / Non-Lead,Address 836
+Bridgeport,41.82582082441391,-87.65423941469012,No Data / Galvanized Iron,Address 837
+Bridgeport,41.843239892501174,-87.66403559932183,No Data / Lead,Address 838
+Bridgeport,41.826303353471644,-87.64847816617981,No Data / Lead,Address 839
+Bridgeport,41.84194436843615,-87.64900727423291,Lead / Galvanized Iron,Address 840
+West Elsdon,41.79572541180311,-87.71357774280702,No Data / Lead,Address 841
+West Elsdon,41.79153343766626,-87.72159958839629,Non-Lead / Galvanized Iron,Address 842
+West Elsdon,41.79578820239937,-87.71645916397661,Galvanized Iron / Galvanized Iron,Address 843
+West Elsdon,41.79545643175036,-87.71765048136061,Lead / Galvanized Iron,Address 844
+West Elsdon,41.78877284709277,-87.73132720435203,No Data / No Data,Address 845
+West Elsdon,41.78634981588563,-87.72853155542347,Non-Lead / Non-Lead,Address 846
+West Elsdon,41.79855485177658,-87.71495038736938,No Data / No Data,Address 847
+West Elsdon,41.79642941026433,-87.71989095817597,Non-Lead / Galvanized Iron,Address 848
+West Elsdon,41.799276357786496,-87.72389193073167,Lead / No Data,Address 849
+West Elsdon,41.79746220798288,-87.7144434747813,Non-Lead / Non-Lead,Address 850
+Gage Park,41.787393575296576,-87.70289813316603,No Data / Lead,Address 851
+Gage Park,41.79395722340064,-87.69384352113546,No Data / No Data,Address 852
+Gage Park,41.80187251727734,-87.71250665706886,Non-Lead / Non-Lead,Address 853
+Gage Park,41.79194606933659,-87.70453459994381,No Data / Lead,Address 854
+Gage Park,41.79878389317824,-87.69990172115756,No Data / Non-Lead,Address 855
+Gage Park,41.79476703964059,-87.69526756975323,Lead / No Data,Address 856
+Gage Park,41.787578272996676,-87.68387563901742,No Data / Lead,Address 857
+Gage Park,41.80337627839469,-87.708347223354,Non-Lead / No Data,Address 858
+Gage Park,41.78702497426405,-87.68163650793821,No Data / No Data,Address 859
+Gage Park,41.803277400394315,-87.69734204399121,Galvanized Iron / Non-Lead,Address 860
+Clearing,41.782999382101586,-87.74045269550632,Non-Lead / Lead,Address 861
+Clearing,41.783118681512676,-87.79853057280815,Galvanized Iron / Galvanized Iron,Address 862
+Clearing,41.7758668750153,-87.8005921083008,Lead / Lead,Address 863
+Clearing,41.77544747665284,-87.74314181404736,Galvanized Iron / Non-Lead,Address 864
+Clearing,41.779884516445605,-87.75928446861188,No Data / Lead,Address 865
+Clearing,41.77797799398987,-87.7413911784568,Lead / Galvanized Iron,Address 866
+Clearing,41.77874498162923,-87.7431191961761,No Data / No Data,Address 867
+Clearing,41.78292110059947,-87.7514713484397,Galvanized Iron / Galvanized Iron,Address 868
+Clearing,41.7778402259945,-87.76591852824592,Non-Lead / Non-Lead,Address 869
+Clearing,41.781732413817394,-87.74618314064142,Non-Lead / Non-Lead,Address 870
+West Lawn,41.77992478440164,-87.72426142053568,Non-Lead / Galvanized Iron,Address 871
+West Lawn,41.775454466235324,-87.71657234786764,Non-Lead / No Data,Address 872
+West Lawn,41.77226468031287,-87.7325020163778,No Data / No Data,Address 873
+West Lawn,41.78270463423528,-87.72373613118938,Non-Lead / No Data,Address 874
+West Lawn,41.753559318277674,-87.727355207966,Lead / No Data,Address 875
+West Lawn,41.77455895995882,-87.71571306166422,No Data / Non-Lead,Address 876
+West Lawn,41.775051619445826,-87.73261031048219,No Data / Lead,Address 877
+West Lawn,41.76425236045364,-87.7164620919867,No Data / Galvanized Iron,Address 878
+West Lawn,41.76531967279703,-87.74110241783268,Galvanized Iron / Non-Lead,Address 879
+West Lawn,41.765406387682475,-87.73666930229902,Non-Lead / No Data,Address 880
+Wicker Park,41.907821450554444,-87.67009511904811,No Data / Galvanized Iron,Address 881
+Wicker Park,41.90865883945996,-87.67933264183534,Non-Lead / Galvanized Iron,Address 882
+Wicker Park,41.912788377502075,-87.67900539539316,Lead / Lead,Address 883
+Wicker Park,41.9134470082142,-87.69058574710948,No Data / No Data,Address 884
+Wicker Park,41.91390257900811,-87.6789496105068,Non-Lead / Non-Lead,Address 885
+Wicker Park,41.90824100503082,-87.67606897166753,No Data / No Data,Address 886
+Wicker Park,41.904812954692545,-87.68982047119792,No Data / Lead,Address 887
+Wicker Park,41.90491863472095,-87.68240188043924,Non-Lead / No Data,Address 888
+Wicker Park,41.91316170028716,-87.66956013093565,Lead / No Data,Address 889
+Wicker Park,41.91422504698214,-87.67122327052564,Non-Lead / Non-Lead,Address 890
+Ukrainian Village,41.89668288224079,-87.68884104568717,Galvanized Iron / Non-Lead,Address 891
+Ukrainian Village,41.90181961416707,-87.67748876192198,Non-Lead / Galvanized Iron,Address 892
+Ukrainian Village,41.89618344827881,-87.68396687614914,Non-Lead / Lead,Address 893
+Ukrainian Village,41.89970286381573,-87.6789377580441,No Data / No Data,Address 894
+Ukrainian Village,41.902136259950794,-87.68236994514018,Galvanized Iron / Galvanized Iron,Address 895
+Ukrainian Village,41.897602893662786,-87.67973402698698,Galvanized Iron / Galvanized Iron,Address 896
+Ukrainian Village,41.90092296889927,-87.68199296507396,Non-Lead / Non-Lead,Address 897
+Ukrainian Village,41.89835536113775,-87.68283350142957,Non-Lead / Galvanized Iron,Address 898
+Ukrainian Village,41.89636040798011,-87.67939327984158,Lead / Non-Lead,Address 899
+Ukrainian Village,41.899459188975314,-87.68783659267365,No Data / Non-Lead,Address 900
+Galewood,41.91363198892843,-87.78266630919349,No Data / Non-Lead,Address 901
+Galewood,41.91193430084889,-87.80559382581376,Lead / Galvanized Iron,Address 902
+Galewood,41.91260199959098,-87.78426672821496,Non-Lead / Galvanized Iron,Address 903
+Galewood,41.9124313649945,-87.79851019317435,Lead / Non-Lead,Address 904
+Galewood,41.920170500162776,-87.79966630220409,No Data / No Data,Address 905
+Galewood,41.90970985557869,-87.79870584764952,Non-Lead / Galvanized Iron,Address 906
+Galewood,41.921169831763464,-87.8049582526283,Lead / No Data,Address 907
+Galewood,41.91327823202645,-87.77809521933676,No Data / Non-Lead,Address 908
+Galewood,41.91079417497612,-87.80013288021752,Non-Lead / Non-Lead,Address 909
+Galewood,41.91700691618129,-87.80084721150328,No Data / Lead,Address 910
+Montclare,41.926561956727056,-87.79524643026934,Lead / Lead,Address 911
+Montclare,41.93229088059221,-87.8023868119405,No Data / Galvanized Iron,Address 912
+Montclare,41.92613349776671,-87.80374532147596,Lead / Lead,Address 913
+Montclare,41.92800445618674,-87.80012699904175,Lead / No Data,Address 914
+Montclare,41.92968581825274,-87.80226505087165,Non-Lead / Lead,Address 915
+Montclare,41.92103797744468,-87.79194238303722,No Data / Lead,Address 916
+Montclare,41.936742900341706,-87.79918045143683,Galvanized Iron / Galvanized Iron,Address 917
+Montclare,41.93784256341433,-87.79192021273452,Galvanized Iron / Non-Lead,Address 918
+Montclare,41.92425790812067,-87.79599530222644,Lead / Galvanized Iron,Address 919
+Montclare,41.93432203176517,-87.80539044730551,Lead / Lead,Address 920
+Old Town,41.91048450545621,-87.6457369625339,Galvanized Iron / Non-Lead,Address 921
+Old Town,41.91552383004772,-87.6410729921199,Galvanized Iron / Non-Lead,Address 922
+Old Town,41.91514312707428,-87.63807077181964,Galvanized Iron / Galvanized Iron,Address 923
+Old Town,41.914154072737155,-87.63799738389578,No Data / No Data,Address 924
+Old Town,41.9164070188419,-87.63879403426125,No Data / Lead,Address 925
+Old Town,41.9041714593448,-87.63765396887788,Non-Lead / Non-Lead,Address 926
+Old Town,41.90825765019124,-87.63861988782136,Lead / Galvanized Iron,Address 927
+Old Town,41.91218273551776,-87.64358826274558,Galvanized Iron / Galvanized Iron,Address 928
+Old Town,41.909323999926144,-87.63322789116694,Lead / No Data,Address 929
+Old Town,41.90970776687578,-87.64553577597242,No Data / Non-Lead,Address 930
+Belmont Cragin,41.934044614584,-87.78092677682781,No Data / Lead,Address 931
+Belmont Cragin,41.92584086931849,-87.76492934627105,No Data / Non-Lead,Address 932
+Belmont Cragin,41.923666754124426,-87.78451484437848,Galvanized Iron / Galvanized Iron,Address 933
+Belmont Cragin,41.92872487521049,-87.78929193242006,Galvanized Iron / Non-Lead,Address 934
+Belmont Cragin,41.92568450290991,-87.77563016960347,Lead / No Data,Address 935
+Belmont Cragin,41.9216896580042,-87.78689091154197,Lead / Lead,Address 936
+Belmont Cragin,41.92594019037134,-87.77452256806262,Galvanized Iron / Non-Lead,Address 937
+Belmont Cragin,41.93654659689973,-87.78229282559334,Galvanized Iron / Non-Lead,Address 938
+Belmont Cragin,41.93517044810052,-87.76858950851164,Non-Lead / Galvanized Iron,Address 939
+Belmont Cragin,41.9333834862945,-87.7461365690525,Non-Lead / Galvanized Iron,Address 940
+Austin,41.91524061936932,-87.76446546907233,Lead / Galvanized Iron,Address 941
+Austin,41.90042322682492,-87.75625312347424,Lead / Non-Lead,Address 942
+Austin,41.901919639573585,-87.74776879740335,No Data / Galvanized Iron,Address 943
+Austin,41.8724628587689,-87.76448332536734,Non-Lead / Lead,Address 944
+Austin,41.89524954960591,-87.75628542002933,Non-Lead / Non-Lead,Address 945
+Austin,41.88907359609098,-87.7636020999344,Non-Lead / Lead,Address 946
+Austin,41.90656526003713,-87.76134783552374,No Data / No Data,Address 947
+Austin,41.9007251565595,-87.77192712777563,Lead / Galvanized Iron,Address 948
+Austin,41.87501537275238,-87.7743788748421,No Data / Galvanized Iron,Address 949
+Austin,41.869735057340954,-87.7581442175078,No Data / Galvanized Iron,Address 950
+Gold Coast,41.901471189929396,-87.62546057942595,Non-Lead / Non-Lead,Address 951
+Gold Coast,41.90953042235303,-87.62514608516032,Galvanized Iron / Non-Lead,Address 952
+Gold Coast,41.9104460049472,-87.6272262874526,Non-Lead / Lead,Address 953
+Gold Coast,41.91009114422147,-87.62864215358678,No Data / Lead,Address 954
+Gold Coast,41.90209772205083,-87.62745863456793,Non-Lead / No Data,Address 955
+Gold Coast,41.90838224125017,-87.63005987385097,Lead / Non-Lead,Address 956
+Gold Coast,41.909424557597625,-87.62551673692404,Lead / Galvanized Iron,Address 957
+Gold Coast,41.90153597173431,-87.62663648207143,Non-Lead / No Data,Address 958
+Gold Coast,41.90514455487042,-87.62558599820521,Non-Lead / Non-Lead,Address 959
+Gold Coast,41.910413365242,-87.62623676899884,No Data / No Data,Address 960
+Boystown,41.941749703809364,-87.64487002183017,Lead / Galvanized Iron,Address 961
+Boystown,41.94088447820838,-87.64789771229104,No Data / Lead,Address 962
+Boystown,41.941455782413875,-87.64905193604805,No Data / Non-Lead,Address 963
+Boystown,41.940712104314386,-87.64796570635663,No Data / Lead,Address 964
+Boystown,41.944131903856096,-87.64589035902621,Non-Lead / Galvanized Iron,Address 965
+Boystown,41.9438783172662,-87.64921494575715,No Data / Non-Lead,Address 966
+Boystown,41.94319533524558,-87.6473476717277,No Data / Non-Lead,Address 967
+Boystown,41.94249916835968,-87.64776484651364,Lead / Lead,Address 968
+Boystown,41.94141350920945,-87.64854005044552,Lead / No Data,Address 969
+Boystown,41.9402284519361,-87.64629473860359,Lead / Lead,Address 970
+River North,41.90505604013928,-87.6436816015969,Lead / No Data,Address 971
+River North,41.90010667348215,-87.6517519474292,No Data / No Data,Address 972
+River North,41.90740399535476,-87.65456270208502,Lead / No Data,Address 973
+River North,41.90230472484044,-87.63638958400236,No Data / No Data,Address 974
+River North,41.90408711768439,-87.65616695380173,No Data / No Data,Address 975
+River North,41.90542257918725,-87.64784330976872,No Data / Galvanized Iron,Address 976
+River North,41.89259469952038,-87.63026316346959,Non-Lead / Non-Lead,Address 977
+River North,41.90048887185229,-87.64481889051628,Lead / No Data,Address 978
+River North,41.902404012119455,-87.63350655625061,Non-Lead / No Data,Address 979
+River North,41.89498217059804,-87.63809905052332,Lead / Galvanized Iron,Address 980
