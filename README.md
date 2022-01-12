@@ -4,12 +4,14 @@
 <p align="center">
     <em>Fast, automated way of generating lead service line maps.</em>
 </p>
+
 ---
 
 **Documentation**: <a href="https://kedar-ketos.github.io/lead-service-line-map" target="_blank">https://kedar-ketos.github.io/lead-service-line-map</a>
 
 **Source Code**: <a href="https://github.com/kedar-ketos/lead-service-line-map" target="_blank">https://github.com/kedar-ketos/lead-service-line-map</a>
 
+---
 
 Lead Service Line Map is a fast, automated way of generating lead service line maps. Utilities can build their own lead service line maps in three easy steps:
 
