@@ -58,7 +58,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#lead-service-line-map" class="md-skip">
+        <a href="#structure" class="md-skip">
           Skip to content
         </a>
       
@@ -207,8 +207,6 @@
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
       
-        
-      
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
           Overview
@@ -224,8 +222,6 @@
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
   
   
-  
-    
   
   
     <label class="md-nav__title" for="__toc">
@@ -374,7 +370,7 @@
   
     <li class="md-nav__item">
       <a href="tutorial/power_bi/" class="md-nav__link">
-        3. Edit Power BI
+        3. Configure Power BI
       </a>
     </li>
   
@@ -495,8 +491,6 @@
   
   
   
-    
-  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -576,7 +570,8 @@
 </a>
 
 
-<h1 id="lead-service-line-map">Lead Service Line Map</h1>
+  <h1>Overview</h1>
+
 <p><img alt="Image title" src="https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/main/docs/images/logo.png" /></p>
 <p align="center">
     <em>Lead Service Line Map is a fast, automated way of generating lead service line maps for utilities. Users can build their own lead service line maps in three easy steps.</em>
@@ -587,8 +582,9 @@
 <p><strong>Demo application</strong>: <a href="https://app.powerbi.com/view?r=eyJrIjoiN2VkNzY0MTktMDU4Zi00MzkzLTk2Y2YtOTJmY2E3N2MyYTk1IiwidCI6IjNhMzM0YmY0LThlNjEtNDNhOS04ZmY1LWFiYTQ0YzcxY2VhOCIsImMiOjZ9&pageName=ReportSection56a47a80c507793ad45d" target="_blank">Open</a></p>
 <p><strong>Documentation</strong>: <a href="https://kedar-ketos.github.io/lead-service-line-map" target="_blank">https://kedar-ketos.github.io/lead-service-line-map</a></p>
 <p><strong>Source Code</strong>: <a href="https://github.com/kedar-ketos/lead-service-line-map" target="_blank">https://github.com/kedar-ketos/lead-service-line-map</a></p>
+<p><strong>Tutorial</strong>: <a href="https://kedar-ketos.github.io/lead-service-line-map/tutorial/prerequisites/" target="_blank">https://kedar-ketos.github.io/lead-service-line-map/tutorial/prerequisites/</a></p>
 <hr />
-<p>These are the only three actions that utilities take to generate their own lead service line map using our approach:</p>
+<p>These are the only three actions that utilities need to take to generate their own lead service line map using our approach:</p>
 <ol>
 <li>Get your datasets</li>
 <li>Format data</li>
@@ -597,23 +593,23 @@
 <h2 id="the-need">The need</h2>
 <p>It was developed by <a href="https://ketos.co">KETOS</a> as a submission entry to the Water Data Prize 2021.</p>
 <p>The first step in building an accurate lead service line inventory is consolidating the existing data and visualizing it on a map. Mapping allows decision-makers to understand the intensity of the challenge posed by lead service lines, prioritize efforts and plan execution. Maps also help keep residents updated about the replacement efforts and adopt healthy drinking water practices.</p>
-<p>Unfortunately, most utilities do not have the resources to develop a service line mapping solution. Although several reasonable mapping solutions exist (<a href="https://geo.dcwater.com/Lead/">DC Water</a>, <a href="https://lead.pgh2o.com/your-water-service-line/planned-water-service-line-replacement-map/">Pittsburgh's PWSA</a>, <a href="https://flintpipemap.org/">Flint service line map</a>), they are often custom-built for specific utilities. In addition, some of them assume specialized geographic information system (GIS) skills and, once adapted, do not allow the user organization flexibility to alter their underlying infrastructure. Finally, some maps bombard the viewers with considerable information taking away focus from the most critical messages.</p>
-<p>We have addressed these challenges in our solution by combining a model for data storage with a publicly available mapping tool. At the same time, the two parts of our solution are not dependent on one another. This decoupling of the data storage and visualization gives users the flexibility to switch the mapping tool as they see fit. We have made our maps interactive, fun, and enjoyable to read. We achieved this by combining some excellent visual concepts with our visual suggestions.</p>
+<p>Unfortunately, most utilities do not have the resources to develop a service line mapping solution. Although several reasonable mapping solutions exist (<a href="https://geo.dcwater.com/Lead/">DC Water</a>, <a href="https://lead.pgh2o.com/your-water-service-line/planned-water-service-line-replacement-map/">Pittsburgh's PWSA</a>, <a href="https://flintpipemap.org/">Flint service line map</a>), they are often custom-built for specific utilities. In addition, some of them assume specialized geographic information system (GIS) skills and, once adopted, do not allow the user organization flexibility to alter their underlying infrastructure. Finally, some maps bombard the viewers with considerable information taking away focus from the most critical messages.</p>
+<p>We have addressed these challenges in our solution by combining a model for data storage with a publicly available mapping tool. At the same time, the two parts of our solution are not dependent on one another. This decoupling of the data storage and visualization gives users the flexibility to switch the mapping tool as they see fit. We have made our maps interactive, fun, and enjoyable to read. We achieved this by combining some excellent visual concepts from exising solutions with some new visual suggestions.</p>
 <h2 id="challenges-with-existing-mapping-solutions">Challenges with existing mapping solutions</h2>
 <h3 id="1-generalizability">1. Generalizability</h3>
-<p>Inability to generalize maps across different utilities is probably the most significant challenge that the existing mapping solutions face today. At best, these maps are typically designed and built with certain large utilities. Some use excellent mapping concepts, but they inadvertently limit their rapid, widespread adoption by not allowing all utilities to replicate these maps for their geographies.</p>
+<p>Inability to generalize maps across different utilities is probably the biggest challenge that the existing mapping solutions face today. At best, these maps are typically designed and built for large utilities. Some use excellent mapping concepts, but they inadvertently limit their rapid, widespread adoption by not allowing all utilities to replicate these maps for their own geographies.</p>
 <h3 id="2-rigid-data-infrastructure">2. Rigid data infrastructure</h3>
-<p>The most widely used dynamic mapping solutions expect the users to convert their data into a format their tools support. As a result, a significant amount of effort goes into preparing data. Furthermore, to ensure that the maps dynamically update, the user organizations might need to rethink their existing data storage and transformation infrastructure.</p>
+<p>The most widely used dynamic mapping solutions expect the users to convert their data into a format that their tools support. As a result, a significant amount of effort goes into preparing data. Furthermore, to ensure that the maps dynamically update, the user organizations may need to rethink their existing 'data storage and transformation' infrastructure.</p>
 <h3 id="3-difficult-to-read">3. Difficult to read</h3>
-<p>We also observed that viewers are sometimes overwhelmed by the volume of content they see when they visit their lead service line maps. We think users deserve to view all available data about lead lines, but a viewer’s interaction is higher if they are presented that data gradually.</p>
+<p>We also observed that viewers are sometimes overwhelmed by the volume of content they see when they visit lead service line maps. We think users deserve to view all available data about lead lines, but a viewer’s engagement is higher if they are presented that data gradually.</p>
 <p>Some lead service line maps also tend to be verbose and text-heavy, discouraging viewer engagement. Besides, they also lack proper guidelines about what a user should do next. Although we know that viewers tend to engage more when a data visualization is conversational, we saw that the existing maps are not very engaging.</p>
 <h2 id="features-of-our-solution">Features of our solution</h2>
-<p>We combined the best practices used in the existing mapping solutions with newer proposals to improve these visuals. Specifically, we tried to address the three challenges outlined above - generalizability, rigidity in infrastructure, and difficulty in reading. Here are the significant features of our solution. We discuss each of these in greater depth in the subsequent sections.</p>
+<p>We combined the best practices used in the existing mapping solutions with newer proposals to improve communication. Specifically, we tried to address the three challenges outlined above - generalizability, rigidity in infrastructure, and difficulty in reading. Here are the significant features of our solution. We discuss each of these in greater depth in the subsequent sections.</p>
 <ol>
 <li>Universal data model</li>
 <li>Decoupled data storage and visualization layers</li>
 <li>Share information in stages</li>
-<li>User-friendly design and work-flow</li>
+<li>User-friendly design and workflow</li>
 <li>Greater engagement with data</li>
 </ol>
 

@@ -5,13 +5,13 @@ Refer to [Power BI's documentation](https://docs.microsoft.com/en-us/power-bi/co
 ## 1. Publish the report to your workspace
 
 - From the cover page of the Power BI report, click on `Publish` at the top (on the menu bar).
-- Log into your Microsoft account, if you haven't already.
+- Log into your Microsoft account, if prompted.
 - Select your workspace. This could be any workspace that you want.
 
 
 ## 2. Publish to web
 
-- Go to [`app.powerbi.com`](https://app.powerbi.com) and log in if you already have not.
+- Go to [`app.powerbi.com`](https://app.powerbi.com) and log in if you haven't already.
 - Navigate to your report under the proper workspace.
 - Select `File > Embed report > Publish to web (public)`
 

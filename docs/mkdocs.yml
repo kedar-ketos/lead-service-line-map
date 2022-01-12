@@ -33,7 +33,7 @@ nav:
     - Objective: tutorial/objective.md
     - 1. Prerequisites: tutorial/prerequisites.md
     - 2. Get and transform data: tutorial/get_data.md
-    - 3. Edit Power BI: tutorial/power_bi.md
+    - 3. Configure Power BI: tutorial/power_bi.md
     - 4. Publish: tutorial/publish.md
   - About the demo:
     - 1. Overview & features: demo/features.md
