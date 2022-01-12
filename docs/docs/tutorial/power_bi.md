@@ -22,9 +22,16 @@ For each of these tables, do the following -
 ## Step 3. Change GeoJSON data URL
 
 - First of all, upload the downloaded GeoJSON file to a web server. The best place to upload this file is to your GitHub repository.
-- Get the URL to the repository. If you uploaded the file to GitHub, the URL will look something like this `https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/4ebab02d7f6eb1726c4d6e69872df1f74c273488/Data/Boundaries%20-%20Neighborhoods.geojson`.
+- Get the URL to the file. If you uploaded the file to GitHub, the URL will look something like this `https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/4ebab02d7f6eb1726c4d6e69872df1f74c273488/Data/Boundaries%20-%20Neighborhoods.geojson`.
 - Navigate to the `Lead Service Line` tab in Power BI.
 - Click on the map visual, select the `Format` brush icon on the right under the `Visualizations` toolbar.
 - Go down to `GeoJSON` and paste the URL.
 
 ![Update GeoJSON](https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/main/docs/images/7_update_geojson.png)
+
+
+Navigate around the Power BI report to checif everything works as expected. We don't have a debug section to this documentation yet, but watch out for that.
+
+## Summary
+
+With these three easy steps, we have now connected the available datasets to Power BI. Next, we will see how to share our Power BI with everyone.
