@@ -13,7 +13,7 @@
     
     
       
-        <title>3. Edit Power BI - Lead Service Line Map</title>
+        <title>3. Configure Power BI - Lead Service Line Map</title>
       
     
     
@@ -91,7 +91,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              3. Edit Power BI
+              3. Configure Power BI
             
           </span>
         </div>
@@ -294,12 +294,12 @@
       
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
-          3. Edit Power BI
+          3. Configure Power BI
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
-        3. Edit Power BI
+        3. Configure Power BI
       </a>
       
         
@@ -518,19 +518,19 @@
 </a>
 
 
-  <h1>3. Edit Power BI</h1>
+  <h1>3. Configure Power BI</h1>
 
-<p>By now, we have all the datasets that we need to start developing our Power BI dashboard.</p>
+<p>By now, we have all the datasets that we need to start developing our Power BI report.</p>
 <h2 id="step-1-open-the-power-bi-file">Step 1. Open the Power BI file</h2>
-<p>With the GitHub that you downloaded, there's a Power BI file, <code>Lead Service Line Map.pbix</code>. Go ahead and open it and navigate around if you want to get some familiarity. We don't need any prior Power BI knowledge for this tutorial.</p>
+<p>In the GitHub repository that you downloaded, there's a Power BI file, <code>Lead Service Line Map - minimal.pbix</code>. Go ahead and open it and navigate around if you want to get some familiarity. You don't need any prior Power BI knowledge for this tutorial.</p>
 <h2 id="step-2-change-data-sources">Step 2. Change data sources</h2>
-<p>Now we need to edit the data source of two of our files <code>factLSL.csv</code> and <code>dimLSLType.csv</code> to point to our spreadsheets.</p>
+<p>Now we need to edit the sources of two of our datasets <code>factLSL.csv</code> and <code>dimLSLType.csv</code> to point to our spreadsheets.</p>
 <p>For each of these tables, do the following - </p>
 <ol>
 <li>Navigate to the <code>Table</code> icon in the left sidebar</li>
-<li>Click on the table name from the right <code>factLSL.csv</code> or <code>dimLSLType.csv</code></li>
+<li>Click on the table name from the right - <code>factLSL.csv</code> or <code>dimLSLType.csv</code></li>
 <li>Select the three dots, followed by <code>Edit query</code>.</li>
-<li>In the new window that pops up, go the right sidebar and select the <code>settings</code>/ <code>wheel</code> icon next to <strong>Source</strong>.</li>
+<li>In the new window that pops up, go the right sidebar and select the settings wheel icon next to <strong>Source</strong>.</li>
 <li>Browse to select the relevant spreadsheet.</li>
 <li>Click <code>Transform and save</code> on the top left menu bar.</li>
 </ol>
@@ -538,13 +538,13 @@
 <h2 id="step-3-change-geojson-data-url">Step 3. Change GeoJSON data URL</h2>
 <ul>
 <li>First of all, upload the downloaded GeoJSON file to a web server. The best place to upload this file is to your GitHub repository.</li>
-<li>Get the URL to the file. If you uploaded the file to GitHub, the URL will look something like this <code>https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/4ebab02d7f6eb1726c4d6e69872df1f74c273488/Data/Boundaries%20-%20Neighborhoods.geojson</code>.</li>
+<li>Copy the URL. If you uploaded the file to GitHub, the URL will look something like this <code>https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/4ebab02d7f6eb1726c4d6e69872df1f74c273488/Data/Boundaries%20-%20Neighborhoods.geojson</code>.</li>
 <li>Navigate to the <code>Lead Service Line</code> tab in Power BI.</li>
-<li>Click on the map visual, select the <code>Format</code> brush icon on the right under the <code>Visualizations</code> toolbar.</li>
-<li>Go down to <code>GeoJSON</code> and paste the URL.</li>
+<li>Click anywhere on the map visual, select the <code>Format</code> brush icon on the right under the <code>Visualizations</code> toolbar.</li>
+<li>Go down to <code>GeoJSON</code> and paste the URL here.</li>
 </ul>
 <p><img alt="Update GeoJSON" src="https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/main/docs/images/7_update_geojson.png" /></p>
-<p>Navigate around the Power BI report to checif everything works as expected. We don't have a debug section to this documentation yet, but watch out for that.</p>
+<p>Navigate around the Power BI report to verify if everything works as expected.</p>
 <h2 id="summary">Summary</h2>
 <p>With these three easy steps, we have now connected the available datasets to Power BI. Next, we will see how to share our Power BI with everyone.</p>
 

@@ -378,7 +378,7 @@
   
     <li class="md-nav__item">
       <a href="../power_bi/" class="md-nav__link">
-        3. Edit Power BI
+        3. Configure Power BI
       </a>
     </li>
   
@@ -586,68 +586,68 @@
 
   <h1>2. Get and transform data</h1>
 
-<p>The first step in map development is to get data that we need followed by transforming it. By the end of this section of the tutorial, we will be able to import the following datasets:</p>
+<p>The first step in map development is to get data that we need, followed by transforming it. By the end of this section of the tutorial, we will be able to import the following datasets:</p>
 <ol>
 <li>GeoJSON neighborhood boundaries for our chosen city</li>
 <li>factLSL: Dataset containing lead service line meterial</li>
-<li>dimLSL: Table to provide more context to each service line type.<strong> This is a static table and no modification is needed.</strong></li>
-<li>dimLSLType: A mapper table to bridge the relevant column in factLSL with a matching column in dimLSL. <strong> This is a static table and no modification is needed.</strong></li>
+<li>dimLSL: Table to provide more context about each service line type.<strong> This is a static table and no modification is needed.</strong></li>
+<li>dimLSLType: A mapper table to bridge the relevant column in <code>factLSL</code> with a matching column in <code>dimLSL</code>. <strong> This is a static table and no modification is needed.</strong></li>
 </ol>
-<p>We random selected the city of Chicago to use in this tutorial. As you will realize later in this tutorial, we could have picked any city that has neighborhood GeoJSON information readily available publicly.</p>
+<p>We random selected the city of Chicago for this tutorial. As you will realize later in this tutorial, we could have picked any city that has neighborhood GeoJSON information readily available publicly.</p>
 <h2 id="1-neighborhood-geojson-data">1. Neighborhood GeoJSON data</h2>
 <h3 id="11-get-data">1.1. Get data</h3>
-<p>Chicago neighborhood boundary dataset is readily available on <a href="https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9">their data portal</a>. They give the option to download this dataset in a number of different formats. We need the GeoJSON format, which we will download and save in the path <code>Data/Boundaries - Neighborhoods.geojson</code>.</p>
+<p>Chicago neighborhood boundary dataset is readily available on <a href="https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9">their data portal</a>. They give the option to download this dataset in a number of different formats. We need the GeoJSON format, which we will download and save to the path <code>Data/Boundaries - Neighborhoods.geojson</code>.</p>
 <p><img alt="Chicago data portal" src="https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/main/docs/images/1%20-%20chicago%20geojson.png" /></p>
-<p>The online copy of this dataset is also available in the project repository <a href="https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/1afc85f4d379d6d92f1c9a2a835364c42627002d/Data/Boundaries%20-%20Neighborhoods.geojson">here</a>.</p>
+<p>A copy of this dataset is also available in the project repository <a href="https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/1afc85f4d379d6d92f1c9a2a835364c42627002d/Data/Boundaries%20-%20Neighborhoods.geojson">here</a>.</p>
 <h3 id="12-transform-data">1.2. Transform data</h3>
 <p>For this tutorial, we will use <a href="https://geojson.io/">geojson.io</a> to modify our GeoJSON file. If you navigate to this website and upload the downloaded 'Boundaries - Neighborhoods.geojson' file, this is how you will see the data in a tabular format.</p>
 <p><img alt="Tabular GeoJSON data" src="https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/main/docs/images/2_chicago_geojson.png" /></p>
 <p>Notice how the tool automatically identified neighborhood boundaries. For now, we will only concern ourselves with the <code>pri_neigh</code> column which stands for 'primary neighborhood name'. This is the column that needs to match letter-for-letter to whatever neighborhood names that we choose to use in our main lead service line dataset <code>factLSL</code>.</p>
 <p>Let's go ahead and rename this column to <code>Neighborhood</code> for consistency. The modified GeoJSON looks like the image below. Go ahead and download this data as GeoJSON. You may overwrite the older file, if you wish to.</p>
 <p><img alt="Tabular GeoJSON data" src="https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/main/docs/images/3_modified_geojson.png" /></p>
-<h2 id="2-service-line-material-information-factlslcsv">2. Service line material information (factLSL.csv)</h2>
+<h2 id="2-service-line-material-information-factlslcsv">2. Service line material information (<code>factLSL.csv</code>)</h2>
 <h3 id="21-get-data">2.1. Get data</h3>
-<p>To build a real map, the assumption is that the information of what service lines are made of is available (lead or non-lead, both for public and private sides of the line). But in the absence of that, we can generate dummy data from the neighborhood boundary data that we have. Irrespective of wheter we use real or dummy data, we need to generate a table named <code>factLSL.csv</code> and we want it to have the following columns and data types:</p>
+<p>To build a real map, service line material information must be available (lead or non-lead, both for public and private sides of the line). But in the absence of that, we can generate dummy data from the neighborhood boundary data that we have. Irrespective of whether we use real or dummy data, we need to generate a table named <code>factLSL.csv</code> and we want it to have the following columns and data types:</p>
 <ol>
 <li><strong>Address</strong> (text): Property street addresses.</li>
-<li><strong>Latitude</strong> (float): Latitude of the address location.</li>
+<li><strong>Latitude</strong> (float): Latitude coordinate of the address location.</li>
 <li><strong>Longitude</strong> (float): Longitude coordinate of the address location.</li>
-<li><strong>LSLType</strong> (text): Categorization of the material used in the lead service line. You can choose to use any terminology that you prefer in this text column as long as the text indicates material used for both the public and privates sides of service lines. We will see in a later section what we can do to ensure that our tools which is lead and which isn't.</li>
+<li><strong>LSLType</strong> (text): Descrption of the material used in the lead service line. You can choose to use any terminology that you prefer in this text column as long as the text indicates material used for both the public and private sides of service lines. We will see later how we can translate this information into something that our tool can understand.</li>
 <li><strong>Neighborhood</strong>: Neighborhood of the address location.</li>
 </ol>
-<p>For the sake of this tutorial, we generated dummy data for all the columns. The only restriction that we need to follow is ensuring that our latitudes and longitudes fall within the neighborhood boundaries. We used Python to do this, only so that we can generate hundres of dummy data points but you may choose to generate a spreadsheet manually. Feel free to use any tool that you want to for this purpose.</p>
+<p>For the sake of this tutorial, we generated dummy data. The only restriction that we need to follow is ensuring that our latitudes and longitudes fall within the neighborhood boundaries. We used Python to do this, only so that we can generate hundres of dummy data points but you may choose to generate a spreadsheet manually. Feel free to use any tool that you want to for this purpose.</p>
 <p>The data that we generated looks like this (image below).</p>
 <p><img alt="Dummy factLSL" src="https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/main/docs/images/4_dummy_factLSL.png" /></p>
 <h2 id="3-map-line-material-to-lead-or-non-lead-dimlsltypecsv">3. Map line material to lead or non-lead (dimLSLType.csv)</h2>
-<p>You may choose to use any existing nomenclature to indicate whether each side (public or private) of the service line is made of lead or now. We choose the following nomenclature:</p>
+<p>You may choose to use any existing nomenclature to indicate the material that both parts (public or private) of the service line is made of. We choose the following nomenclature:</p>
 <p>Examples:</p>
 <ul>
-<li><code>No Data / No Data</code>: No available data either about the public or the private sides of the line.</li>
+<li><code>No Data / No Data</code>: No available data either about the public or the private side of the line.</li>
 <li><code>Non-Lead / Lead</code>: Non-lead on the public side but lead on the private side.</li>
 <li><code>Lead / Galvanized Iron</code>: Lead on the public side but galvanized iron (non-lead) on the private side.</li>
 </ul>
-<p>Using the tables <code>dimLSL.csv</code> and <code>dimLSLType.csv</code>, we map our custom nomenclature with a terminology that our tool can understand. We don't need to touch <code>dimLSL.csv</code> at all. Let's go ahead and make make sure that the mapping in <code>dimLSLType.csv</code> is as we expect.</p>
+<p>Using the table <code>dimLSLType.csv</code>, we map our custom nomenclature to a terminology that our tool can understand. Let's go ahead and make make sure that the mapping in <code>dimLSLType.csv</code> is as we expect.</p>
 <p>For example,</p>
 <ul>
-<li>We want <code>No Data / No Data</code> to map to "Public side unknown and private side unknown". The symbol for this under the column <code>LSLCategory</code> is <code>UU</code>.</li>
+<li>We want <code>No Data / No Data</code> to map to "Public side unknown and private side unknown". The symbol for this is <code>UU</code>.</li>
 <li>Similarly, we want <code>Lead / Galvanized Iron</code> to mean "Public side is lead and private side is non-lead". The symbol for this is <code>LN</code>.</li>
 </ul>
-<p>Here are the available symbols and what each of them mean - </p>
+<p>Here are the available symbols and what they mean - </p>
 <ol>
 <li><code>NN</code>: Non-lead on both sides</li>
 <li><code>UU</code>: Unknown material on both sides</li>
 <li><code>UL</code>: Unknown material on public side but lead on the private side</li>
 <li><code>NL</code>: Non-lead on public side but lead on the private side</li>
-<li><code>NU</code>: Non-lead on public side and uknown material on the private side</li>
+<li><code>NU</code>: Non-lead on public side and unknown material on the private side</li>
 <li><code>LN</code>: Lead on the public side and non-lead on the private side</li>
 <li><code>UN</code>: Unknown material on public side but non-lead on the private side</li>
 <li><code>LL</code>: Lead material on both sides</li>
-<li><code>LU</code>: Lead on the public but unknown material on the private side</li>
+<li><code>LU</code>: Lead on the public side but unknown material on the private side</li>
 </ol>
 <p>If you are using the same terminology as we are, then your <code>dimLSLType.csv</code> will look like this -</p>
 <p><img alt="dimLSLType.png" src="https://raw.githubusercontent.com/kedar-ketos/lead-service-line-map/main/docs/images/5_dimLSLType.png" /></p>
 <h2 id="summary">Summary</h2>
-<p>So far, we prepared all the datasets that we needed for the final mapping tool to work! We should have these files in our <code>Data</code> path:</p>
+<p>So far, we prepared all the datasets that we needed for the final mapping tool to work! We should have these files under our <code>Data</code> path:</p>
 <ul>
 <li><code>Boundaries - Neighborhoods.geojson</code></li>
 <li><code>factLSL.csv</code></li>
@@ -687,13 +687,13 @@
       
       
         
-        <a href="../power_bi/" class="md-footer__link md-footer__link--next" aria-label="Next: 3. Edit Power BI" rel="next">
+        <a href="../power_bi/" class="md-footer__link md-footer__link--next" aria-label="Next: 3. Configure Power BI" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              3. Edit Power BI
+              3. Configure Power BI
             </div>
           </div>
           <div class="md-footer__button md-icon">
